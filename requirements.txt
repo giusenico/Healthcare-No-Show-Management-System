@@ -1,5 +1,31 @@
-streamlit==1.20.0
+# Streamlit dependencies
+streamlit
 pandas
-numpy
-plotly
 requests
+os
+json
+re
+logging
+datetime
+
+# OpenAI API
+openai
+
+# Concurrency
+concurrent.futures
+
+# FastAPI dependencies
+fastapi
+httpx
+uvicorn
+
+# Machine Learning dependencies
+joblib
+xgboost
+scikit-learn
+
+# Pydantic for data validation
+pydantic
+
+# Async utilities
+asyncio
