@@ -4,15 +4,21 @@
 AI-powered platform to predict patient no-shows and optimize scheduling in healthcare
 
 📅 Developed by: Giuseppe Nicolò
+
 📄 Dataset Used: Medical Appointment No Shows - Kaggle
 
 🚀 Project Overview
+
 This project is an AI-driven web application that predicts the probability of patient no-shows and provides actionable recommendations for scheduling efficiency in healthcare centers, hospitals, and clinics.
 
 Key features include:
+
 ✅ Predictive Model (XGBoost) – Forecasts no-show probability for each appointment
+
 ✅ Interactive Dashboard – Visualizes patient trends and no-show analytics
+
 ✅ AI Recommendations (GPT-4o Mini) – Suggests overbooking slots and reminder notifications
+
 ✅ Manual Staff Control – Allows healthcare staff to adjust schedules and send reminders
 
 🎯 How It Works
