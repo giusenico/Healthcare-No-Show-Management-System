@@ -32,11 +32,12 @@ Key features include:
 📊 Dashboard Overview
 👀 The web application provides an interactive dashboard where healthcare providers can analyze trends and make data-driven decisions.
 
-📌 ![Dashboard Screenshot](Images/img1.png)
+![Dashboard Screenshot](Images/img1.png)
 
 👨‍⚕️ Healthcare staff can also view upcoming appointments and take action based on AI insights.
 
-📌 [INSERT IMAGE HERE] 
+![Appointment list](Images/img3.png)
+![AI Recommendation](Images/img2.png)
 
 
 
