@@ -54,7 +54,6 @@ python -m uvicorn app.api:app --host 0.0.0.0 --port 8000 --workers 8
 streamlit run Home.py    
 ```
 
-
-
-
-
+📩 Contact & Support
+💼 Giuseppe Nicolò
+📧 nicologiuse2003@outlook.it
