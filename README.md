@@ -42,7 +42,16 @@ Key features include:
 🖥 Installation & Setup
 Clone this repository and install dependencies:
 ```
+git clone https://github.com/yourusername/healthcare-no-show.git
+cd healthcare-no-show
+pip install -r requirements.txt
+```
+
+```
 python -m uvicorn app.api:app --host 0.0.0.0 --port 8000 --workers 8  
+```
+```
+streamlit run Home.py    
 ```
 
 
