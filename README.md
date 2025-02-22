@@ -39,5 +39,13 @@ Key features include:
 ![Appointment list](Images/img3.png)
 ![AI Recommendation](Images/img2.png)
 
+🖥 Installation & Setup
+Clone this repository and install dependencies:
+```
+python -m uvicorn app.api:app --host 0.0.0.0 --port 8000 --workers 8  
+```
+
+
+
 
 
