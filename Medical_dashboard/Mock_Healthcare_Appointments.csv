@@ -1,0 +1,811 @@
+PatientId,AppointmentID,Gender,AppointmentDay,AppointmentTime,Age,Neighbourhood,Scholarship,Hipertension,Diabetes,Alcoholism,Handcap,SMS_received,Showed_up,Date.diff,Distance_Hospital_km,Wealth_Level,Weekday,Age_Group,Last_Minute_Appointment,Distance_Category
+1000006751,5000911,F,2025-02-15,08:00,39,INHANGUETÁ,False,False,True,False,False,True,True,12,18.5,Low,5,Adult,0,Long
+1000005073,5005353,M,2025-02-15,08:20,32,HORTO,False,False,True,True,False,True,True,2,8.2,High,5,Adult,0,Medium
+1000004499,5008497,M,2025-02-15,08:40,29,SANTA TEREZA,False,True,True,False,False,False,True,6,9.1,Low,5,Adult,0,Medium
+1000009000,5005401,M,2025-02-15,09:00,5,COMDUSA,False,False,True,False,False,False,False,13,8.2,High,5,Minor,0,Medium
+1000000189,5004130,F,2025-02-15,09:20,68,SÃO JOSÉ,True,True,True,False,False,True,True,6,3.6,Medium,5,Senior,0,Short
+1000003755,5004396,F,2025-02-15,09:40,88,PRAIA DO SUÁ,True,False,True,False,False,False,True,5,1.8,Low,5,Senior,0,Short
+1000008791,5004668,M,2025-02-15,10:00,12,DO QUADRO,False,False,False,False,False,True,True,11,10.1,Medium,5,Minor,0,Medium
+1000008288,5005120,M,2025-02-15,10:20,7,HORTO,True,False,True,True,False,False,True,10,4.1,High,5,Minor,0,Short
+1000001121,5005118,F,2025-02-15,10:40,16,BELA VISTA,True,False,False,False,False,False,True,9,10.0,High,5,Minor,0,Medium
+1000002305,5009861,M,2025-02-15,11:00,31,MONTE BELO,True,True,False,True,False,False,True,3,4.3,Low,5,Adult,0,Short
+1000005086,5000619,F,2025-02-15,11:20,28,PRAIA DO CANTO,False,True,True,False,True,False,False,9,14.8,High,5,Adult,0,Medium
+1000000209,5000657,F,2025-02-15,11:40,78,SANTOS DUMONT,False,False,False,False,False,False,True,14,16.7,High,5,Senior,0,Long
+1000006425,5005070,F,2025-02-15,12:00,46,GURIGICA,True,False,False,False,False,True,True,5,1.4,Low,5,Adult,0,Short
+1000006945,5006827,M,2025-02-15,12:20,72,DO MOSCOSO,True,True,False,False,False,False,True,0,13.5,Low,5,Senior,1,Medium
+1000005125,5000206,M,2025-02-15,12:40,30,CENTRO,False,True,True,False,True,True,False,9,1.6,Low,5,Adult,0,Short
+1000002605,5007772,M,2025-02-15,13:00,15,ANDORINHAS,True,False,True,False,False,False,True,2,7.1,Medium,5,Minor,0,Medium
+1000002973,5007092,F,2025-02-15,13:20,49,FORTE SÃO JOÃO,False,False,False,True,False,False,True,2,4.4,Low,5,Adult,0,Short
+1000002765,5007800,M,2025-02-15,13:40,84,ILHA DO PRÍNCIPE,True,True,False,True,False,False,False,6,4.2,High,5,Senior,0,Short
+1000000596,5002284,F,2025-02-15,14:00,31,SANTA LUÍZA,True,True,False,True,False,False,True,8,6.2,High,5,Adult,0,Medium
+1000001724,5007369,F,2025-02-15,14:20,20,DO MOSCOSO,True,True,False,True,False,True,True,10,9.7,High,5,Adult,0,Medium
+1000001476,5002718,F,2025-02-15,14:40,17,HORTO,False,False,False,True,False,True,False,1,7.2,High,5,Minor,1,Medium
+1000001869,5000071,F,2025-02-15,15:00,43,CARATOÍRA,True,True,True,True,False,False,True,11,4.8,Medium,5,Adult,0,Short
+1000006478,5008550,M,2025-02-15,15:20,61,JESUS DE NAZARETH,False,True,True,False,False,False,True,9,4.3,High,5,Senior,0,Short
+1000000612,5003183,M,2025-02-15,15:40,66,DE LOURDES,False,True,True,False,False,False,True,9,13.1,Medium,5,Senior,0,Medium
+1000000221,5009139,M,2025-02-15,16:00,65,CRUZAMENTO,False,True,True,False,False,True,True,12,10.3,High,5,Senior,0,Medium
+1000005368,5005379,M,2025-02-15,16:20,2,MARUÍPE,False,True,True,False,False,True,True,11,8.7,Low,5,Minor,0,Medium
+1000007746,5003154,F,2025-02-15,16:40,59,PIEDADE,False,False,False,True,False,True,True,11,16.6,High,5,Adult,0,Long
+1000006126,5003339,M,2025-02-16,08:00,79,SANTA LUÍZA,False,True,True,False,False,False,False,12,8.8,Low,6,Senior,0,Medium
+1000009654,5004778,M,2025-02-16,08:20,0,JUCUTUQUARA,False,False,True,False,False,True,False,11,13.6,Medium,6,Minor,0,Medium
+1000001791,5004876,F,2025-02-16,08:40,59,PONTAL DE CAMBURI,False,False,True,True,False,True,True,12,10.9,High,6,Adult,0,Medium
+1000008766,5005189,M,2025-02-16,09:00,34,SANTO ANTÔNIO,True,False,False,True,False,False,True,4,4.6,Low,6,Adult,0,Short
+1000006984,5002371,M,2025-02-16,09:20,32,VILA RUBIM,True,True,True,True,False,False,False,10,1.5,High,6,Adult,0,Short
+1000000808,5005470,M,2025-02-16,09:40,8,ESTRELINHA,False,True,False,False,False,True,False,14,15.9,Low,6,Minor,0,Long
+1000008923,5000354,F,2025-02-16,10:00,9,NOVA PALESTINA,False,False,True,True,False,False,True,7,4.8,Medium,6,Minor,0,Short
+1000002536,5005003,F,2025-02-16,10:20,28,SANTO ANTÔNIO,True,False,True,False,False,True,True,7,17.1,Medium,6,Adult,0,Long
+1000008450,5003919,F,2025-02-16,10:40,62,SANTO ANDRÉ,True,True,False,True,False,False,True,6,15.3,Low,6,Senior,0,Long
+1000003344,5002214,F,2025-02-16,11:00,2,PARQUE MOSCOSO,True,False,False,True,False,False,True,3,7.0,Medium,6,Minor,0,Medium
+1000002915,5008620,M,2025-02-16,11:20,24,JARDIM DA PENHA,False,True,True,False,False,True,False,1,11.7,Low,6,Adult,1,Medium
+1000003798,5009502,F,2025-02-16,11:40,87,UNIVERSITÁRIO,False,False,True,True,False,False,True,6,1.7,Low,6,Senior,0,Short
+1000006943,5000114,M,2025-02-16,12:00,79,UNIVERSITÁRIO,True,True,True,True,True,True,True,11,3.5,High,6,Senior,0,Short
+1000008481,5003767,F,2025-02-16,12:20,57,SANTA MARTHA,False,True,True,True,False,False,True,11,13.8,High,6,Adult,0,Medium
+1000001116,5002793,F,2025-02-16,12:40,66,PRAIA DO SUÁ,False,False,True,False,False,False,True,13,4.3,Medium,6,Senior,0,Short
+1000009715,5002995,M,2025-02-16,13:00,39,DO CABRAL,True,True,False,False,True,False,True,3,2.7,High,6,Adult,0,Short
+1000009588,5004183,M,2025-02-16,13:20,41,VILA RUBIM,True,False,False,True,False,True,True,0,12.2,Low,6,Adult,1,Medium
+1000008291,5004546,M,2025-02-16,13:40,81,VILA RUBIM,False,False,True,False,False,False,True,5,0.9,Medium,6,Senior,0,Short
+1000008431,5008728,F,2025-02-16,14:00,74,CENTRO,False,True,False,True,False,True,False,9,1.1,Medium,6,Senior,0,Short
+1000000398,5003787,F,2025-02-16,14:20,54,VILA RUBIM,True,True,True,False,False,True,True,1,2.7,Medium,6,Adult,1,Short
+1000004232,5004331,F,2025-02-16,14:40,1,ILHA DE SANTA MARIA,False,True,False,False,False,True,True,5,2.2,Medium,6,Minor,0,Short
+1000009075,5003343,F,2025-02-16,15:00,76,SANTA CLARA,True,False,False,True,False,True,True,4,1.1,High,6,Senior,0,Short
+1000002448,5005209,M,2025-02-16,15:20,14,UNIVERSITÁRIO,True,False,False,False,False,False,True,5,16.9,Medium,6,Minor,0,Long
+1000000291,5006725,F,2025-02-16,15:40,61,MONTE BELO,False,True,True,True,False,True,True,3,1.6,High,6,Senior,0,Short
+1000005682,5000283,F,2025-02-16,16:00,84,ENSEADA DO SUÁ,False,True,True,True,False,True,True,14,2.4,High,6,Senior,0,Short
+1000007923,5001624,M,2025-02-16,16:20,45,MARIA ORTIZ,False,False,False,False,False,True,False,8,1.6,Low,6,Adult,0,Short
+1000005734,5004223,F,2025-02-16,16:40,2,CONSOLAÇÃO,True,False,False,False,False,False,True,0,16.3,High,6,Minor,1,Long
+1000005723,5000714,M,2025-02-17,08:00,24,SANTO ANDRÉ,False,True,True,False,False,True,True,9,11.8,Medium,0,Adult,0,Medium
+1000007567,5007824,M,2025-02-17,08:20,32,ROMÃO,False,False,False,False,False,False,True,0,3.4,Medium,0,Adult,1,Short
+1000007834,5005258,M,2025-02-17,08:40,89,PARQUE MOSCOSO,True,False,False,False,False,False,True,1,19.5,Low,0,Senior,1,Long
+1000006520,5005005,F,2025-02-17,09:00,69,FONTE GRANDE,False,False,False,False,False,True,True,13,9.9,Low,0,Senior,0,Medium
+1000006726,5006692,M,2025-02-17,09:20,6,SOLON BORGES,False,True,True,False,False,False,True,7,17.2,Low,0,Minor,0,Long
+1000002979,5001269,F,2025-02-17,09:40,69,ITARARÉ,False,False,True,True,False,False,True,5,11.5,High,0,Senior,0,Medium
+1000006695,5001068,M,2025-02-17,10:00,12,ILHA DAS CAIEIRAS,False,False,True,False,False,False,True,5,9.2,Low,0,Minor,0,Medium
+1000004390,5000979,M,2025-02-17,10:20,59,BELA VISTA,True,False,False,False,False,False,True,8,14.0,Medium,0,Adult,0,Medium
+1000005241,5009311,M,2025-02-17,10:40,31,ILHA DO BOI,False,False,True,False,False,True,False,12,19.8,Medium,0,Adult,0,Long
+1000005561,5001322,M,2025-02-17,11:00,69,MÁRIO CYPRESTE,True,False,False,False,False,False,False,6,7.1,Low,0,Senior,0,Medium
+1000002305,5001865,F,2025-02-17,11:20,74,SANTOS REIS,True,True,False,False,True,False,True,13,19.4,High,0,Senior,0,Long
+1000004079,5004517,F,2025-02-17,11:40,34,SEGURANÇA DO LAR,False,False,False,False,False,False,True,8,14.7,High,0,Adult,0,Medium
+1000004379,5000704,F,2025-02-17,12:00,46,JESUS DE NAZARETH,False,True,False,False,False,True,False,10,11.8,High,0,Adult,0,Medium
+1000008999,5009440,F,2025-02-17,12:20,34,JUCUTUQUARA,True,True,False,True,False,True,True,14,1.8,High,0,Adult,0,Short
+1000000216,5003548,F,2025-02-17,12:40,19,SÃO BENEDITO,True,True,True,True,False,False,False,14,14.6,High,0,Adult,0,Medium
+1000000622,5003844,M,2025-02-17,13:00,72,MORADA DE CAMBURI,False,False,True,True,False,True,True,0,2.9,Medium,0,Senior,1,Short
+1000007049,5009404,M,2025-02-17,13:20,77,SANTA CLARA,False,True,True,False,True,True,True,6,14.8,Medium,0,Senior,0,Medium
+1000000539,5002004,F,2025-02-17,13:40,30,NAZARETH,True,True,True,True,False,False,True,8,16.0,High,0,Adult,0,Long
+1000008604,5007094,F,2025-02-17,14:00,88,BONFIM,False,False,True,False,False,True,True,13,3.8,Medium,0,Senior,0,Short
+1000009825,5007004,F,2025-02-17,14:20,2,ILHA DO FRADE,False,False,True,True,False,False,False,12,18.7,High,0,Minor,0,Long
+1000004044,5000371,M,2025-02-17,14:40,36,SANTO ANTÔNIO,True,True,False,False,False,True,True,6,13.0,High,0,Adult,0,Medium
+1000009216,5002340,M,2025-02-17,15:00,49,CENTRO,True,False,True,True,False,False,True,14,4.2,Medium,0,Adult,0,Short
+1000003138,5004039,F,2025-02-17,15:20,14,SANTA CECÍLIA,False,True,False,False,False,False,True,9,15.4,Low,0,Minor,0,Long
+1000008254,5005449,F,2025-02-17,15:40,57,ESTRELINHA,False,False,False,True,True,True,True,0,15.1,High,0,Adult,1,Long
+1000009602,5000902,M,2025-02-17,16:00,14,ILHAS OCEÂNICAS DE TRINDADE,False,True,True,False,False,True,True,1,17.6,Low,0,Minor,1,Long
+1000005415,5002675,M,2025-02-17,16:20,19,ILHAS OCEÂNICAS DE TRINDADE,False,True,False,False,False,True,True,2,18.8,Low,0,Adult,0,Long
+1000009178,5009489,M,2025-02-17,16:40,55,DO QUADRO,True,False,True,True,False,True,True,4,1.2,Medium,0,Adult,0,Short
+1000006011,5009410,F,2025-02-18,08:00,65,PARQUE INDUSTRIAL,False,False,False,False,False,False,True,12,1.3,High,1,Senior,0,Short
+1000003953,5006888,F,2025-02-18,08:20,25,SANTA TEREZA,True,False,False,False,False,False,True,7,4.7,High,1,Adult,0,Short
+1000008895,5000904,F,2025-02-18,08:40,10,FONTE GRANDE,True,False,False,False,False,False,False,11,0.6,High,1,Minor,0,Short
+1000002846,5000267,F,2025-02-18,09:00,50,PONTAL DE CAMBURI,False,True,True,False,False,True,True,3,15.7,Low,1,Adult,0,Long
+1000006868,5004318,M,2025-02-18,09:20,24,JARDIM DA PENHA,True,True,True,False,False,False,True,3,6.9,Medium,1,Adult,0,Medium
+1000007689,5008632,M,2025-02-18,09:40,56,JARDIM CAMBURI,False,False,True,True,False,False,True,11,1.3,Low,1,Adult,0,Short
+1000000305,5007591,M,2025-02-18,10:00,9,BOA VISTA,False,False,False,True,False,True,False,3,13.1,Low,1,Minor,0,Medium
+1000004713,5001007,M,2025-02-18,10:20,57,ILHA DO BOI,False,False,False,False,False,True,True,5,7.1,Medium,1,Adult,0,Medium
+1000007064,5004282,M,2025-02-18,10:40,4,SANTOS REIS,False,False,False,False,False,False,True,5,2.9,Medium,1,Minor,0,Short
+1000002793,5001030,F,2025-02-18,11:00,69,SANTA TEREZA,False,False,True,False,False,False,True,14,17.1,Medium,1,Senior,0,Long
+1000000459,5008270,M,2025-02-18,11:20,75,PRAIA DO SUÁ,False,True,False,True,False,True,True,7,16.4,High,1,Senior,0,Long
+1000001959,5002619,M,2025-02-18,11:40,72,DO MOSCOSO,False,True,True,False,False,False,False,0,8.9,Low,1,Senior,1,Medium
+1000001700,5001507,M,2025-02-18,12:00,39,SÃO PEDRO,False,True,False,False,False,False,True,10,2.6,High,1,Adult,0,Short
+1000001131,5004734,M,2025-02-18,12:20,70,ILHA DO BOI,True,True,False,True,False,True,False,4,9.7,Low,1,Senior,0,Medium
+1000003079,5000206,M,2025-02-18,12:40,69,SANTO ANDRÉ,False,True,True,True,False,True,True,6,0.8,Medium,1,Senior,0,Short
+1000002608,5000858,F,2025-02-18,13:00,83,DA PENHA,True,True,True,True,False,True,True,14,9.3,Low,1,Senior,0,Medium
+1000005325,5005466,F,2025-02-18,13:20,18,MORADA DE CAMBURI,False,True,True,False,False,True,True,12,0.5,Medium,1,Adult,0,Short
+1000005402,5002435,F,2025-02-18,13:40,71,HORTO,False,False,True,True,True,False,True,0,2.4,Medium,1,Senior,1,Short
+1000007566,5003765,M,2025-02-18,14:00,8,SANTA TEREZA,False,True,False,True,False,True,True,12,17.6,Low,1,Minor,0,Long
+1000007760,5001093,M,2025-02-18,14:20,61,UNIVERSITÁRIO,False,False,False,False,False,True,True,5,5.2,Low,1,Senior,0,Medium
+1000009579,5005528,M,2025-02-18,14:40,23,DO QUADRO,True,False,True,True,False,True,True,7,6.6,Medium,1,Adult,0,Medium
+1000005901,5009490,M,2025-02-18,15:00,19,ARIOVALDO FAVALESSA,True,False,False,True,False,True,True,2,5.3,High,1,Adult,0,Medium
+1000006044,5007401,F,2025-02-18,15:20,6,PIEDADE,True,False,True,True,False,False,True,0,5.7,High,1,Minor,1,Medium
+1000000103,5007298,M,2025-02-18,15:40,8,GURIGICA,False,False,True,False,False,False,False,10,16.4,High,1,Minor,0,Long
+1000005126,5001198,F,2025-02-18,16:00,73,TABUAZEIRO,True,True,False,False,False,True,True,0,10.1,High,1,Senior,1,Medium
+1000002667,5000029,F,2025-02-18,16:20,13,BONFIM,False,True,False,False,False,True,False,5,19.6,High,1,Minor,0,Long
+1000004756,5008817,M,2025-02-18,16:40,20,DO CABRAL,False,True,False,True,False,True,True,4,4.4,Medium,1,Adult,0,Short
+1000006991,5007852,M,2025-02-19,08:00,47,SANTA LUÍZA,True,True,False,True,False,True,True,5,8.4,High,2,Adult,0,Medium
+1000000080,5009617,F,2025-02-19,08:20,31,ANTÔNIO HONÓRIO,True,True,True,False,False,True,True,0,9.5,Low,2,Adult,1,Medium
+1000007301,5002379,F,2025-02-19,08:40,29,MARIA ORTIZ,False,False,True,True,False,False,False,11,3.0,Low,2,Adult,0,Short
+1000005625,5005067,F,2025-02-19,09:00,0,HORTO,True,True,True,False,False,True,False,8,14.2,Low,2,Minor,0,Medium
+1000004268,5009845,F,2025-02-19,09:20,36,CENTRO,False,False,False,True,False,False,True,7,0.7,Low,2,Adult,0,Short
+1000007491,5003411,F,2025-02-19,09:40,41,ILHA DO FRADE,False,False,True,False,False,False,True,9,6.1,High,2,Adult,0,Medium
+1000001942,5001180,F,2025-02-19,10:00,48,INHANGUETÁ,True,True,True,False,False,False,True,14,15.9,Low,2,Adult,0,Long
+1000006293,5002525,M,2025-02-19,10:20,26,CRUZAMENTO,False,True,False,False,False,True,True,10,13.4,Medium,2,Adult,0,Medium
+1000001193,5000764,F,2025-02-19,10:40,4,PARQUE MOSCOSO,False,False,False,True,False,False,False,8,17.6,High,2,Minor,0,Long
+1000009693,5000898,M,2025-02-19,11:00,75,CONQUISTA,False,True,True,True,False,False,True,0,3.0,Low,2,Senior,1,Short
+1000007943,5004330,F,2025-02-19,11:20,61,SANTA LÚCIA,True,False,True,True,False,False,False,2,18.3,High,2,Senior,0,Long
+1000002731,5003847,M,2025-02-19,11:40,62,REPÚBLICA,True,False,False,False,False,False,True,4,3.2,Low,2,Senior,0,Short
+1000006063,5003270,F,2025-02-19,12:00,36,ROMÃO,False,False,False,False,False,True,True,5,4.1,Low,2,Adult,0,Short
+1000008100,5003555,M,2025-02-19,12:20,78,BENTO FERREIRA,False,False,True,True,False,False,True,14,16.9,Low,2,Senior,0,Long
+1000004002,5008526,F,2025-02-19,12:40,15,SANTO ANTÔNIO,True,False,True,True,False,True,False,6,2.9,High,2,Minor,0,Short
+1000008631,5005842,M,2025-02-19,13:00,29,DA PENHA,True,False,False,False,False,False,True,2,15.5,High,2,Adult,0,Long
+1000001300,5004576,F,2025-02-19,13:20,60,GURIGICA,False,False,True,True,False,True,True,5,18.4,Low,2,Senior,0,Long
+1000004952,5002759,M,2025-02-19,13:40,43,SANTA MARTHA,False,False,False,True,False,False,True,13,5.7,Low,2,Adult,0,Medium
+1000001543,5000677,M,2025-02-19,14:00,68,SÃO BENEDITO,False,True,False,False,False,False,False,7,3.3,Low,2,Senior,0,Short
+1000008171,5008811,M,2025-02-19,14:20,28,DA PENHA,True,False,True,False,False,False,True,2,16.3,Medium,2,Adult,0,Long
+1000001582,5007474,M,2025-02-19,14:40,53,CRUZAMENTO,True,False,False,True,False,False,True,4,10.4,High,2,Adult,0,Medium
+1000004822,5002893,M,2025-02-19,15:00,33,SANTO ANTÔNIO,False,False,False,True,False,False,False,0,7.0,Low,2,Adult,1,Medium
+1000005616,5005461,F,2025-02-19,15:20,52,PARQUE MOSCOSO,False,True,True,False,False,True,True,10,9.7,Low,2,Adult,0,Medium
+1000002231,5008210,M,2025-02-19,15:40,40,SANTA LÚCIA,True,False,False,True,False,True,False,8,13.0,Low,2,Adult,0,Medium
+1000007325,5005178,M,2025-02-19,16:00,3,CONSOLAÇÃO,False,True,False,True,True,True,True,2,15.3,High,2,Minor,0,Long
+1000000914,5007458,F,2025-02-19,16:20,36,PARQUE MOSCOSO,False,True,True,False,False,True,True,7,12.3,Medium,2,Adult,0,Medium
+1000000392,5003579,F,2025-02-19,16:40,86,FONTE GRANDE,True,False,True,True,False,True,True,2,11.2,Medium,2,Senior,0,Medium
+1000007443,5004968,M,2025-02-20,08:00,9,VILA RUBIM,True,False,False,True,True,False,True,12,6.9,Low,3,Minor,0,Medium
+1000000787,5004503,M,2025-02-20,08:20,16,MÁRIO CYPRESTE,False,False,False,True,False,False,True,2,2.7,High,3,Minor,0,Short
+1000004242,5004876,M,2025-02-20,08:40,33,BENTO FERREIRA,False,True,False,False,True,True,True,11,18.4,High,3,Adult,0,Long
+1000003330,5005849,M,2025-02-20,09:00,80,GURIGICA,False,True,True,False,False,False,True,12,9.1,Medium,3,Senior,0,Medium
+1000004971,5006771,M,2025-02-20,09:20,54,FONTE GRANDE,False,False,True,False,False,True,True,6,15.3,Medium,3,Adult,0,Long
+1000009188,5001555,F,2025-02-20,09:40,0,GURIGICA,False,False,True,False,False,True,True,12,11.3,High,3,Minor,0,Medium
+1000004898,5009262,M,2025-02-20,10:00,2,GRANDE VITÓRIA,False,True,True,False,False,False,True,3,7.8,High,3,Minor,0,Medium
+1000000682,5005372,F,2025-02-20,10:20,31,SANTOS REIS,False,True,True,False,False,True,True,3,12.1,Low,3,Adult,0,Medium
+1000007436,5001068,F,2025-02-20,10:40,14,AEROPORTO,False,False,False,True,False,False,True,0,1.0,Medium,3,Minor,1,Short
+1000000524,5001611,F,2025-02-20,11:00,46,SÃO BENEDITO,False,False,True,False,False,True,False,5,14.6,High,3,Adult,0,Medium
+1000000709,5009791,F,2025-02-20,11:20,34,ITARARÉ,False,True,False,False,False,False,True,0,15.2,High,3,Adult,1,Long
+1000001033,5005567,F,2025-02-20,11:40,74,RESISTÊNCIA,True,False,False,False,False,True,False,8,6.8,Medium,3,Senior,0,Medium
+1000003491,5000296,M,2025-02-20,12:00,66,JABOUR,True,True,False,False,False,False,True,5,8.1,High,3,Senior,0,Medium
+1000009770,5002144,F,2025-02-20,12:20,45,SANTA CLARA,True,True,False,True,False,False,True,11,9.7,High,3,Adult,0,Medium
+1000005773,5005643,M,2025-02-20,12:40,47,TABUAZEIRO,False,False,True,True,False,False,True,7,15.8,High,3,Adult,0,Long
+1000002442,5006336,M,2025-02-20,13:00,27,ILHA DO PRÍNCIPE,True,False,False,False,False,True,True,11,3.2,High,3,Adult,0,Short
+1000004578,5008251,M,2025-02-20,13:20,53,REDENÇÃO,False,True,True,True,False,True,True,9,13.2,Low,3,Adult,0,Medium
+1000006021,5007096,M,2025-02-20,13:40,11,SANTA LUÍZA,False,False,True,True,False,False,True,0,13.7,High,3,Minor,1,Medium
+1000003260,5002731,F,2025-02-20,14:00,7,SOLON BORGES,False,False,False,True,False,True,True,8,12.3,Medium,3,Minor,0,Medium
+1000005549,5006299,M,2025-02-20,14:20,64,BOA VISTA,True,True,True,True,False,False,False,2,8.3,High,3,Senior,0,Medium
+1000005313,5001989,F,2025-02-20,14:40,76,SÃO PEDRO,False,False,False,False,False,False,False,0,19.2,Medium,3,Senior,1,Long
+1000000564,5009564,M,2025-02-20,15:00,55,PONTAL DE CAMBURI,False,False,False,True,False,False,True,13,5.6,High,3,Adult,0,Medium
+1000003258,5009914,M,2025-02-20,15:20,73,ILHA DO BOI,True,True,True,False,False,True,True,1,6.2,Medium,3,Senior,1,Medium
+1000008198,5000580,M,2025-02-20,15:40,50,UNIVERSITÁRIO,False,True,False,True,False,False,True,0,19.7,Low,3,Adult,1,Long
+1000000309,5002767,F,2025-02-20,16:00,11,MONTE BELO,True,False,True,False,False,True,False,10,8.0,Medium,3,Minor,0,Medium
+1000007357,5008122,M,2025-02-20,16:20,32,ROMÃO,False,False,False,False,False,False,True,7,15.2,High,3,Adult,0,Long
+1000002660,5007183,M,2025-02-20,16:40,26,PIEDADE,False,False,False,False,False,False,True,1,13.7,Low,3,Adult,1,Medium
+1000007963,5009811,M,2025-02-21,08:00,50,BARRO VERMELHO,False,True,False,True,False,True,True,1,9.7,Medium,4,Adult,1,Medium
+1000006735,5001122,M,2025-02-21,08:20,82,ARIOVALDO FAVALESSA,True,True,True,False,False,True,True,13,10.7,Low,4,Senior,0,Medium
+1000006383,5007701,M,2025-02-21,08:40,47,UNIVERSITÁRIO,False,False,False,False,False,False,True,14,17.8,High,4,Adult,0,Long
+1000009124,5001449,M,2025-02-21,09:00,3,CONSOLAÇÃO,True,False,True,True,False,True,False,8,11.2,Low,4,Minor,0,Medium
+1000006093,5005633,M,2025-02-21,09:20,87,ANTÔNIO HONÓRIO,True,True,True,False,True,True,False,13,13.0,Medium,4,Senior,0,Medium
+1000002670,5005220,M,2025-02-21,09:40,18,PIEDADE,True,False,False,False,False,False,True,0,13.9,Low,4,Adult,1,Medium
+1000003700,5009685,M,2025-02-21,10:00,14,SANTO ANDRÉ,True,False,False,True,False,False,False,0,9.1,High,4,Minor,1,Medium
+1000003224,5000968,F,2025-02-21,10:20,17,JABOUR,False,True,True,True,False,True,True,13,16.2,High,4,Minor,0,Long
+1000008762,5004764,F,2025-02-21,10:40,7,FONTE GRANDE,False,True,True,True,False,False,True,11,10.1,High,4,Minor,0,Medium
+1000005388,5002330,F,2025-02-21,11:00,47,RESISTÊNCIA,True,True,False,False,False,True,False,0,18.1,Low,4,Adult,1,Long
+1000006283,5002829,M,2025-02-21,11:20,24,SÃO CRISTÓVÃO,False,True,False,False,False,True,True,11,7.1,Low,4,Adult,0,Medium
+1000005263,5008858,F,2025-02-21,11:40,79,GOIABEIRAS,False,False,True,True,False,True,True,14,10.2,Low,4,Senior,0,Medium
+1000002645,5000053,F,2025-02-21,12:00,7,RESISTÊNCIA,False,True,True,False,False,True,True,1,12.9,Medium,4,Minor,1,Medium
+1000005412,5008582,F,2025-02-21,12:20,10,CARATOÍRA,False,False,True,False,False,False,True,5,4.9,Low,4,Minor,0,Short
+1000004492,5007888,F,2025-02-21,12:40,68,PONTAL DE CAMBURI,False,True,False,False,False,True,True,13,9.7,Low,4,Senior,0,Medium
+1000008031,5001539,M,2025-02-21,13:00,10,MONTE BELO,True,False,False,False,False,True,False,10,16.6,Medium,4,Minor,0,Long
+1000008015,5006185,M,2025-02-21,13:20,20,TABUAZEIRO,False,True,False,False,False,False,True,2,15.8,Low,4,Adult,0,Long
+1000008091,5008233,M,2025-02-21,13:40,60,ESTRELINHA,True,False,False,False,False,False,True,4,9.6,Low,4,Senior,0,Medium
+1000000016,5007581,F,2025-02-21,14:00,26,SANTA CECÍLIA,False,True,False,False,False,True,False,3,15.1,Low,4,Adult,0,Long
+1000008938,5001292,F,2025-02-21,14:20,75,HORTO,False,False,True,True,False,False,True,10,4.6,High,4,Senior,0,Short
+1000008514,5008623,F,2025-02-21,14:40,28,ILHA DE SANTA MARIA,False,True,False,True,False,True,True,13,1.2,Medium,4,Adult,0,Short
+1000001719,5002356,F,2025-02-21,15:00,12,SOLON BORGES,True,False,False,True,False,False,True,3,19.4,Medium,4,Minor,0,Long
+1000000128,5002570,M,2025-02-21,15:20,47,JESUS DE NAZARETH,True,False,False,True,False,False,True,8,17.3,Medium,4,Adult,0,Long
+1000002203,5007906,F,2025-02-21,15:40,76,SANTO ANTÔNIO,False,False,True,True,False,False,True,1,16.2,Low,4,Senior,1,Long
+1000002177,5001753,M,2025-02-21,16:00,4,ILHA DO BOI,True,False,False,False,False,False,True,1,18.8,High,4,Minor,1,Long
+1000003680,5000257,M,2025-02-21,16:20,8,ILHA DO BOI,True,False,False,False,False,False,True,11,13.6,Low,4,Minor,0,Medium
+1000005906,5008816,F,2025-02-21,16:40,37,DE LOURDES,True,False,False,True,False,True,True,5,9.1,Low,4,Adult,0,Medium
+1000007862,5009806,F,2025-02-22,08:00,64,FONTE GRANDE,False,False,True,True,False,True,False,1,13.5,Low,5,Senior,1,Medium
+1000005976,5002538,M,2025-02-22,08:20,76,FRADINHOS,False,True,True,False,False,True,False,4,3.3,High,5,Senior,0,Short
+1000003138,5001811,F,2025-02-22,08:40,53,FORTE SÃO JOÃO,True,False,True,True,False,False,False,5,12.5,Medium,5,Adult,0,Medium
+1000009541,5001612,F,2025-02-22,09:00,52,ILHA DO FRADE,True,True,False,True,False,False,False,2,7.0,High,5,Adult,0,Medium
+1000003363,5005183,F,2025-02-22,09:20,84,PARQUE MOSCOSO,True,False,False,True,False,True,True,6,3.4,Medium,5,Senior,0,Short
+1000008910,5009892,M,2025-02-22,09:40,31,ENSEADA DO SUÁ,True,False,True,True,False,True,True,1,2.2,High,5,Adult,1,Short
+1000002239,5007416,F,2025-02-22,10:00,14,SÃO PEDRO,True,True,False,False,False,True,True,13,2.2,High,5,Minor,0,Short
+1000005575,5002540,M,2025-02-22,10:20,55,SÃO PEDRO,True,False,True,False,False,True,True,6,10.8,Medium,5,Adult,0,Medium
+1000005964,5009899,F,2025-02-22,10:40,14,DE LOURDES,False,False,False,False,False,False,True,7,4.8,Low,5,Minor,0,Short
+1000007962,5005821,F,2025-02-22,11:00,0,ANTÔNIO HONÓRIO,True,True,True,False,False,False,True,1,11.5,High,5,Minor,1,Medium
+1000005300,5009567,F,2025-02-22,11:20,34,HORTO,False,False,True,True,False,False,False,3,8.4,Low,5,Adult,0,Medium
+1000004203,5001162,F,2025-02-22,11:40,1,MORADA DE CAMBURI,False,False,False,True,False,False,True,2,10.2,Medium,5,Minor,0,Medium
+1000000397,5009748,F,2025-02-22,12:00,17,SÃO PEDRO,True,False,False,False,False,True,True,10,5.6,Low,5,Minor,0,Medium
+1000006739,5005418,F,2025-02-22,12:20,25,GOIABEIRAS,False,False,True,True,False,True,True,11,13.4,High,5,Adult,0,Medium
+1000002541,5004563,M,2025-02-22,12:40,41,BENTO FERREIRA,False,False,False,True,False,True,True,1,19.4,Low,5,Adult,1,Long
+1000008680,5005227,F,2025-02-22,13:00,87,GOIABEIRAS,True,True,True,True,False,True,True,8,19.9,Low,5,Senior,0,Long
+1000006605,5009026,F,2025-02-22,13:20,33,CENTRO,False,True,True,False,False,False,True,10,12.0,Medium,5,Adult,0,Medium
+1000001090,5003394,F,2025-02-22,13:40,81,FRADINHOS,False,False,False,True,False,False,True,1,14.8,Low,5,Senior,1,Medium
+1000006647,5008614,M,2025-02-22,14:00,54,SANTA LUÍZA,True,True,True,True,False,False,True,1,16.4,Low,5,Adult,1,Long
+1000002029,5009515,M,2025-02-22,14:20,0,TABUAZEIRO,True,True,False,True,False,False,False,5,7.1,Low,5,Minor,0,Medium
+1000004653,5009325,M,2025-02-22,14:40,85,SANTO ANDRÉ,False,True,True,True,False,False,True,6,11.0,Low,5,Senior,0,Medium
+1000003377,5009779,M,2025-02-22,15:00,29,ILHAS OCEÂNICAS DE TRINDADE,False,True,False,True,False,False,True,9,13.3,High,5,Adult,0,Medium
+1000000755,5001350,M,2025-02-22,15:20,20,MÁRIO CYPRESTE,True,True,True,True,False,False,True,13,14.1,High,5,Adult,0,Medium
+1000006793,5009058,F,2025-02-22,15:40,22,BARRO VERMELHO,False,True,False,False,True,True,True,14,12.4,High,5,Adult,0,Medium
+1000001822,5001739,M,2025-02-22,16:00,4,RESISTÊNCIA,True,False,True,True,True,False,False,11,5.4,Low,5,Minor,0,Medium
+1000007606,5003933,M,2025-02-22,16:20,39,JUCUTUQUARA,True,False,False,False,False,True,False,13,11.1,Low,5,Adult,0,Medium
+1000004922,5000638,M,2025-02-22,16:40,25,ANDORINHAS,False,True,False,True,False,False,False,7,4.0,Low,5,Adult,0,Short
+1000002728,5007004,M,2025-02-23,08:00,19,PRAIA DO CANTO,False,False,False,False,False,True,True,1,13.2,High,6,Adult,1,Medium
+1000004571,5007503,M,2025-02-23,08:20,15,REPÚBLICA,False,False,False,True,False,False,True,7,16.4,Low,6,Minor,0,Long
+1000004170,5001284,M,2025-02-23,08:40,71,MONTE BELO,False,True,False,False,False,False,True,3,3.0,Medium,6,Senior,0,Short
+1000003090,5005220,F,2025-02-23,09:00,13,SANTOS DUMONT,True,True,True,True,False,True,False,9,19.1,High,6,Minor,0,Long
+1000009135,5000199,M,2025-02-23,09:20,16,JARDIM CAMBURI,True,False,True,True,False,False,True,9,4.9,Medium,6,Minor,0,Short
+1000006543,5006840,F,2025-02-23,09:40,70,BOA VISTA,False,True,False,True,False,False,True,7,11.6,High,6,Senior,0,Medium
+1000007334,5001454,M,2025-02-23,10:00,39,SANTA CLARA,True,False,False,True,False,False,True,4,11.9,Low,6,Adult,0,Medium
+1000003451,5003897,F,2025-02-23,10:20,13,PARQUE INDUSTRIAL,True,False,True,False,False,False,False,2,9.0,Medium,6,Minor,0,Medium
+1000002413,5009103,M,2025-02-23,10:40,19,PRAIA DO SUÁ,True,False,True,True,False,True,True,0,18.0,Medium,6,Adult,1,Long
+1000006077,5003027,F,2025-02-23,11:00,64,SÃO BENEDITO,False,True,True,False,False,False,False,11,10.7,High,6,Senior,0,Medium
+1000008286,5005464,F,2025-02-23,11:20,29,PARQUE MOSCOSO,True,True,True,True,False,True,True,6,14.7,High,6,Adult,0,Medium
+1000001861,5003140,M,2025-02-23,11:40,17,FRADINHOS,True,False,True,True,False,False,True,7,16.5,High,6,Minor,0,Long
+1000005599,5001429,M,2025-02-23,12:00,8,JUCUTUQUARA,False,False,False,True,False,True,False,8,7.2,Medium,6,Minor,0,Medium
+1000001553,5001221,F,2025-02-23,12:20,3,SANTA HELENA,True,True,True,False,False,True,True,0,1.1,Low,6,Minor,1,Short
+1000001586,5008988,M,2025-02-23,12:40,2,SÃO BENEDITO,True,True,False,False,False,True,True,8,11.8,Medium,6,Minor,0,Medium
+1000000234,5008382,M,2025-02-23,13:00,19,CRUZAMENTO,False,True,False,True,False,False,True,9,13.8,Low,6,Adult,0,Medium
+1000008311,5007299,M,2025-02-23,13:20,62,ARIOVALDO FAVALESSA,True,False,True,False,False,False,False,11,16.5,Low,6,Senior,0,Long
+1000007257,5006695,M,2025-02-23,13:40,17,SANTA LÚCIA,True,True,False,False,False,True,True,12,10.9,High,6,Minor,0,Medium
+1000005765,5001317,M,2025-02-23,14:00,67,JUCUTUQUARA,True,False,True,False,False,True,True,7,7.5,Medium,6,Senior,0,Medium
+1000005853,5005051,F,2025-02-23,14:20,7,PIEDADE,True,False,False,False,False,True,True,0,3.4,High,6,Minor,1,Short
+1000000238,5007608,F,2025-02-23,14:40,89,ANTÔNIO HONÓRIO,False,False,True,True,False,False,True,7,13.4,High,6,Senior,0,Medium
+1000006850,5002781,M,2025-02-23,15:00,32,CENTRO,True,True,True,False,False,True,True,14,18.1,High,6,Adult,0,Long
+1000001751,5002169,M,2025-02-23,15:20,3,DO QUADRO,False,False,True,False,False,True,False,4,13.5,Low,6,Minor,0,Medium
+1000003388,5000265,F,2025-02-23,15:40,31,DA PENHA,True,True,False,True,False,True,True,10,9.7,High,6,Adult,0,Medium
+1000004738,5008769,M,2025-02-23,16:00,87,MARUÍPE,True,False,False,False,False,False,True,1,12.4,High,6,Senior,1,Medium
+1000009746,5007837,F,2025-02-23,16:20,73,SANTA MARTHA,True,True,True,False,False,False,True,10,3.3,Medium,6,Senior,0,Short
+1000000912,5001585,M,2025-02-23,16:40,42,FRADINHOS,False,False,True,False,False,True,False,2,19.8,Medium,6,Adult,0,Long
+1000000651,5001614,M,2025-02-24,08:00,86,REPÚBLICA,True,False,True,True,False,False,True,5,2.9,Medium,0,Senior,0,Short
+1000009196,5001511,F,2025-02-24,08:20,88,NOVA PALESTINA,False,False,False,True,False,False,True,12,13.4,Medium,0,Senior,0,Medium
+1000002330,5004273,F,2025-02-24,08:40,82,FONTE GRANDE,True,False,True,True,False,False,True,3,11.1,High,0,Senior,0,Medium
+1000009275,5002667,M,2025-02-24,09:00,38,SANTA CECÍLIA,False,True,True,True,False,False,True,5,17.0,Low,0,Adult,0,Long
+1000007136,5004363,F,2025-02-24,09:20,34,ESTRELINHA,False,False,False,True,False,True,True,1,2.9,Low,0,Adult,1,Short
+1000002910,5002978,F,2025-02-24,09:40,17,PARQUE MOSCOSO,True,False,True,False,False,True,False,4,14.2,High,0,Minor,0,Medium
+1000006448,5004823,F,2025-02-24,10:00,86,BARRO VERMELHO,False,True,True,True,False,True,True,8,12.6,Low,0,Senior,0,Medium
+1000007712,5000313,F,2025-02-24,10:20,65,REPÚBLICA,True,True,False,True,False,False,False,8,19.4,High,0,Senior,0,Long
+1000000669,5001313,M,2025-02-24,10:40,89,ITARARÉ,True,False,False,False,False,False,True,9,18.9,Low,0,Senior,0,Long
+1000007743,5001114,M,2025-02-24,11:00,89,SÃO PEDRO,False,False,True,False,False,False,False,9,3.2,High,0,Senior,0,Short
+1000006738,5009378,M,2025-02-24,11:20,72,ANTÔNIO HONÓRIO,True,True,False,False,True,True,True,3,4.1,Medium,0,Senior,0,Short
+1000009664,5005985,M,2025-02-24,11:40,47,GURIGICA,False,False,False,False,False,True,True,5,15.8,Low,0,Adult,0,Long
+1000009170,5008487,F,2025-02-24,12:00,41,CARATOÍRA,True,False,True,False,False,False,True,4,17.2,Medium,0,Adult,0,Long
+1000006217,5008193,M,2025-02-24,12:20,14,ILHA DE SANTA MARIA,True,False,True,True,False,True,True,14,10.3,Low,0,Minor,0,Medium
+1000000988,5003587,M,2025-02-24,12:40,78,ILHA DE SANTA MARIA,True,True,True,True,False,False,False,1,19.4,Medium,0,Senior,1,Long
+1000002058,5002050,F,2025-02-24,13:00,84,SOLON BORGES,False,False,False,True,False,False,True,13,6.0,High,0,Senior,0,Medium
+1000006405,5001966,F,2025-02-24,13:20,14,BELA VISTA,False,True,False,True,False,False,True,9,6.2,Low,0,Minor,0,Medium
+1000003514,5008019,M,2025-02-24,13:40,1,MONTE BELO,False,True,True,True,False,False,True,6,1.6,Medium,0,Minor,0,Short
+1000004542,5001311,M,2025-02-24,14:00,48,HORTO,False,True,False,False,False,False,True,3,4.3,Low,0,Adult,0,Short
+1000009001,5008377,M,2025-02-24,14:20,56,SÃO CRISTÓVÃO,True,True,True,True,False,True,True,7,7.1,Medium,0,Adult,0,Medium
+1000007116,5002512,F,2025-02-24,14:40,49,DO QUADRO,True,True,False,True,False,True,True,6,5.9,Low,0,Adult,0,Medium
+1000007336,5007044,F,2025-02-24,15:00,25,SANTA CLARA,False,True,False,True,False,False,True,5,16.0,High,0,Adult,0,Long
+1000009065,5009906,M,2025-02-24,15:20,41,ILHA DO BOI,True,True,True,False,False,False,True,10,9.7,Low,0,Adult,0,Medium
+1000000948,5009567,M,2025-02-24,15:40,68,ILHA DO PRÍNCIPE,False,True,True,True,False,True,True,12,15.5,Medium,0,Senior,0,Long
+1000002995,5004949,M,2025-02-24,16:00,44,SÃO PEDRO,False,False,False,True,False,True,True,14,10.8,Medium,0,Adult,0,Medium
+1000004326,5005926,M,2025-02-24,16:20,7,SANTO ANTÔNIO,True,True,True,False,False,False,True,12,0.7,Low,0,Minor,0,Short
+1000007478,5009113,F,2025-02-24,16:40,44,MARIA ORTIZ,False,True,False,False,False,False,True,7,2.8,High,0,Adult,0,Short
+1000009304,5002262,M,2025-02-25,08:00,55,ANTÔNIO HONÓRIO,False,False,False,False,False,True,False,14,1.9,High,1,Adult,0,Short
+1000001530,5005494,M,2025-02-25,08:20,17,SANTA MARTHA,False,True,True,False,False,True,True,12,9.5,Medium,1,Minor,0,Medium
+1000002375,5008397,M,2025-02-25,08:40,61,RESISTÊNCIA,False,True,True,False,False,False,False,6,6.7,High,1,Senior,0,Medium
+1000000057,5006681,F,2025-02-25,09:00,81,NAZARETH,True,False,False,True,False,True,True,6,4.5,Medium,1,Senior,0,Short
+1000004676,5003649,F,2025-02-25,09:20,29,FONTE GRANDE,False,False,True,True,False,True,True,2,9.9,High,1,Adult,0,Medium
+1000000243,5003807,M,2025-02-25,09:40,43,CONSOLAÇÃO,True,True,False,True,False,True,True,4,12.7,Medium,1,Adult,0,Medium
+1000005837,5005318,F,2025-02-25,10:00,4,SANTA LUÍZA,True,True,False,True,False,False,True,3,1.2,High,1,Minor,0,Short
+1000005467,5005624,M,2025-02-25,10:20,31,SANTA HELENA,True,False,True,True,False,False,True,3,1.2,Medium,1,Adult,0,Short
+1000009610,5000936,M,2025-02-25,10:40,60,SANTO ANTÔNIO,True,False,True,True,False,True,False,2,8.7,Low,1,Senior,0,Medium
+1000000590,5001475,M,2025-02-25,11:00,49,DO CABRAL,True,True,False,True,False,False,True,1,17.6,Medium,1,Adult,1,Long
+1000005412,5003579,M,2025-02-25,11:20,48,VILA RUBIM,False,False,True,True,False,True,False,8,7.1,Low,1,Adult,0,Medium
+1000001355,5001251,F,2025-02-25,11:40,17,SANTA CECÍLIA,True,False,False,True,False,False,False,11,10.4,Low,1,Minor,0,Medium
+1000009604,5002877,F,2025-02-25,12:00,77,MÁRIO CYPRESTE,True,False,True,True,False,False,True,1,18.1,Medium,1,Senior,1,Long
+1000009827,5009432,M,2025-02-25,12:20,12,BOA VISTA,True,False,True,True,False,False,True,0,8.7,Low,1,Minor,1,Medium
+1000004533,5007585,M,2025-02-25,12:40,56,SANTA CLARA,False,True,False,True,False,False,True,13,18.6,Low,1,Adult,0,Long
+1000004856,5004540,F,2025-02-25,13:00,11,FORTE SÃO JOÃO,False,False,False,True,False,True,True,9,2.2,Low,1,Minor,0,Short
+1000000443,5008904,F,2025-02-25,13:20,6,CRUZAMENTO,True,True,True,False,False,True,True,2,9.1,Low,1,Minor,0,Medium
+1000007619,5000884,M,2025-02-25,13:40,47,PONTAL DE CAMBURI,True,False,True,True,False,True,True,2,19.4,Low,1,Adult,0,Long
+1000001376,5007419,F,2025-02-25,14:00,71,JUCUTUQUARA,False,True,True,False,False,False,True,12,9.4,Medium,1,Senior,0,Medium
+1000000051,5000664,M,2025-02-25,14:20,84,GURIGICA,True,True,False,False,False,False,True,13,14.7,High,1,Senior,0,Medium
+1000002745,5005304,M,2025-02-25,14:40,23,SANTOS REIS,False,False,False,True,False,False,True,4,16.7,High,1,Adult,0,Long
+1000008370,5006960,M,2025-02-25,15:00,10,SANTOS DUMONT,True,True,False,True,False,True,True,2,14.7,Medium,1,Minor,0,Medium
+1000005717,5006304,F,2025-02-25,15:20,7,SANTA TEREZA,False,True,False,True,False,True,True,11,13.9,Low,1,Minor,0,Medium
+1000009722,5000208,M,2025-02-25,15:40,64,CONSOLAÇÃO,True,False,True,True,True,True,False,13,9.1,Medium,1,Senior,0,Medium
+1000009715,5006910,M,2025-02-25,16:00,85,ILHA DO FRADE,True,False,True,True,False,True,True,7,10.0,High,1,Senior,0,Medium
+1000007315,5001000,F,2025-02-25,16:20,36,RESISTÊNCIA,False,False,False,True,False,False,True,12,9.9,High,1,Adult,0,Medium
+1000004344,5002411,M,2025-02-25,16:40,22,ROMÃO,True,False,False,True,False,True,True,1,3.7,Medium,1,Adult,1,Short
+1000003086,5009396,F,2025-02-26,08:00,78,PRAIA DO SUÁ,True,False,False,False,False,False,False,8,5.3,Medium,2,Senior,0,Medium
+1000003271,5001841,M,2025-02-26,08:20,37,ARIOVALDO FAVALESSA,False,True,True,False,False,False,True,8,7.7,High,2,Adult,0,Medium
+1000005426,5004279,M,2025-02-26,08:40,6,GURIGICA,True,True,True,True,False,False,False,2,15.8,Medium,2,Minor,0,Long
+1000009956,5006875,M,2025-02-26,09:00,30,TABUAZEIRO,False,True,True,False,False,True,True,0,17.3,Medium,2,Adult,1,Long
+1000004278,5003246,F,2025-02-26,09:20,37,JABOUR,False,False,True,True,False,False,True,8,19.2,Low,2,Adult,0,Long
+1000001026,5008198,F,2025-02-26,09:40,17,SANTA MARTHA,True,False,False,False,False,False,True,4,11.6,High,2,Minor,0,Medium
+1000008925,5002262,F,2025-02-26,10:00,79,NOVA PALESTINA,False,True,False,False,False,False,True,2,15.2,Low,2,Senior,0,Long
+1000001550,5005371,M,2025-02-26,10:20,19,BARRO VERMELHO,True,True,False,False,False,False,False,13,1.7,High,2,Adult,0,Short
+1000006255,5005463,M,2025-02-26,10:40,5,CONSOLAÇÃO,False,False,True,True,False,True,True,12,19.6,High,2,Minor,0,Long
+1000007945,5003539,F,2025-02-26,11:00,7,JUCUTUQUARA,False,True,True,False,False,False,True,6,8.0,High,2,Minor,0,Medium
+1000005242,5005901,M,2025-02-26,11:20,3,SÃO CRISTÓVÃO,False,True,True,False,False,True,False,11,13.3,Low,2,Minor,0,Medium
+1000007796,5000080,M,2025-02-26,11:40,4,BONFIM,True,False,False,False,False,False,True,2,8.5,Low,2,Minor,0,Medium
+1000004754,5007791,M,2025-02-26,12:00,88,JOANA D´ARC,True,True,True,True,False,False,True,0,8.1,High,2,Senior,1,Medium
+1000008748,5004111,F,2025-02-26,12:20,27,GURIGICA,True,False,False,True,False,True,True,12,19.1,Low,2,Adult,0,Long
+1000003322,5005114,M,2025-02-26,12:40,62,BENTO FERREIRA,False,False,True,True,False,True,True,5,17.9,Medium,2,Senior,0,Long
+1000000597,5000424,M,2025-02-26,13:00,66,ARIOVALDO FAVALESSA,False,False,True,False,False,True,True,11,16.4,High,2,Senior,0,Long
+1000003900,5002148,F,2025-02-26,13:20,40,BELA VISTA,False,False,True,True,False,False,True,13,19.2,Low,2,Adult,0,Long
+1000007098,5004435,F,2025-02-26,13:40,47,FRADINHOS,False,True,False,True,False,False,True,2,6.4,Low,2,Adult,0,Medium
+1000003927,5007815,F,2025-02-26,14:00,22,SANTA CLARA,False,False,False,False,False,False,True,11,14.1,Medium,2,Adult,0,Medium
+1000009789,5009111,M,2025-02-26,14:20,2,MATA DA PRAIA,False,False,True,True,False,True,True,11,15.5,Low,2,Minor,0,Long
+1000008284,5008570,M,2025-02-26,14:40,39,NOVA PALESTINA,False,False,False,False,False,True,True,12,18.8,Low,2,Adult,0,Long
+1000003919,5006567,F,2025-02-26,15:00,0,BOA VISTA,False,False,True,False,False,False,True,0,8.5,Low,2,Minor,1,Medium
+1000009926,5007282,M,2025-02-26,15:20,84,ARIOVALDO FAVALESSA,False,True,True,False,False,True,True,6,2.3,Medium,2,Senior,0,Short
+1000003409,5000636,M,2025-02-26,15:40,72,BELA VISTA,True,True,False,False,False,True,True,13,7.5,High,2,Senior,0,Medium
+1000006038,5003764,M,2025-02-26,16:00,65,ARIOVALDO FAVALESSA,False,False,True,True,False,False,True,3,19.5,Low,2,Senior,0,Long
+1000004661,5003188,F,2025-02-26,16:20,71,DO QUADRO,False,True,True,True,False,True,True,10,17.2,Low,2,Senior,0,Long
+1000001630,5002326,F,2025-02-26,16:40,30,INHANGUETÁ,False,True,True,False,False,False,False,8,7.3,Low,2,Adult,0,Medium
+1000000448,5006755,F,2025-02-27,08:00,71,SEGURANÇA DO LAR,True,True,False,True,False,True,True,13,13.2,Medium,3,Senior,0,Medium
+1000007274,5009707,F,2025-02-27,08:20,9,JOANA D´ARC,True,False,True,True,False,False,False,2,14.1,Low,3,Minor,0,Medium
+1000000347,5008865,F,2025-02-27,08:40,29,SANTA CLARA,False,False,True,False,False,True,True,13,18.8,High,3,Adult,0,Long
+1000000248,5005672,M,2025-02-27,09:00,67,BENTO FERREIRA,False,False,False,True,False,False,True,11,5.6,High,3,Senior,0,Medium
+1000008711,5006532,M,2025-02-27,09:20,1,NAZARETH,False,True,True,False,False,True,True,13,5.9,High,3,Minor,0,Medium
+1000004381,5006165,M,2025-02-27,09:40,70,MATA DA PRAIA,False,True,False,False,False,True,True,1,13.3,Low,3,Senior,1,Medium
+1000001886,5002206,F,2025-02-27,10:00,22,SÃO BENEDITO,True,True,False,False,True,False,True,14,2.6,Low,3,Adult,0,Short
+1000000161,5002704,F,2025-02-27,10:20,47,BONFIM,True,True,True,False,False,False,True,1,19.7,High,3,Adult,1,Long
+1000004572,5005756,M,2025-02-27,10:40,30,MONTE BELO,False,True,False,False,False,True,True,8,19.4,High,3,Adult,0,Long
+1000006704,5005853,M,2025-02-27,11:00,56,PRAIA DO CANTO,False,True,True,False,False,False,True,9,18.4,Medium,3,Adult,0,Long
+1000008757,5002294,F,2025-02-27,11:20,36,PRAIA DO SUÁ,False,False,False,False,False,True,True,6,18.0,Low,3,Adult,0,Long
+1000004184,5000441,F,2025-02-27,11:40,75,SANTA LUÍZA,False,False,True,True,False,False,True,10,2.2,Medium,3,Senior,0,Short
+1000007621,5000723,F,2025-02-27,12:00,31,JARDIM CAMBURI,True,False,False,False,False,True,True,0,3.8,High,3,Adult,1,Short
+1000005184,5007416,M,2025-02-27,12:20,64,INHANGUETÁ,True,False,False,True,False,True,True,11,12.9,Low,3,Senior,0,Medium
+1000009781,5004579,M,2025-02-27,12:40,18,PARQUE INDUSTRIAL,False,True,False,False,False,False,True,5,6.2,Medium,3,Adult,0,Medium
+1000007602,5005661,F,2025-02-27,13:00,67,VILA RUBIM,True,True,False,False,False,False,True,14,18.0,High,3,Senior,0,Long
+1000000494,5009677,M,2025-02-27,13:20,69,JESUS DE NAZARETH,True,True,False,True,False,True,False,14,15.1,Medium,3,Senior,0,Long
+1000000114,5008433,M,2025-02-27,13:40,54,FRADINHOS,False,False,True,False,False,False,True,9,6.9,High,3,Adult,0,Medium
+1000004038,5006844,F,2025-02-27,14:00,43,SANTOS REIS,False,False,False,True,True,False,True,11,16.6,High,3,Adult,0,Long
+1000001788,5000335,F,2025-02-27,14:20,13,SANTA TEREZA,True,True,False,False,False,True,True,3,17.7,Medium,3,Minor,0,Long
+1000007036,5003589,F,2025-02-27,14:40,80,MONTE BELO,False,False,True,True,False,False,False,7,3.2,High,3,Senior,0,Short
+1000000545,5008920,F,2025-02-27,15:00,16,DE LOURDES,False,False,False,True,False,True,False,3,6.0,Low,3,Minor,0,Medium
+1000006875,5008009,F,2025-02-27,15:20,53,FORTE SÃO JOÃO,True,True,True,False,False,False,True,8,9.6,High,3,Adult,0,Medium
+1000005837,5001667,F,2025-02-27,15:40,25,DO MOSCOSO,False,True,True,True,False,False,True,8,14.0,Low,3,Adult,0,Medium
+1000007311,5006402,M,2025-02-27,16:00,5,DA PENHA,True,True,True,True,False,True,True,2,14.2,Low,3,Minor,0,Medium
+1000004705,5008976,F,2025-02-27,16:20,43,SÃO PEDRO,False,False,True,False,False,False,True,2,8.6,Low,3,Adult,0,Medium
+1000008802,5009144,M,2025-02-27,16:40,34,ILHA DO PRÍNCIPE,True,True,False,True,False,True,True,10,9.1,Low,3,Adult,0,Medium
+1000001019,5001313,F,2025-02-28,08:00,8,SANTA CLARA,False,False,True,True,False,False,True,0,7.6,High,4,Minor,1,Medium
+1000001600,5008175,M,2025-02-28,08:20,64,SEGURANÇA DO LAR,False,False,True,False,False,False,True,5,3.4,Low,4,Senior,0,Short
+1000007481,5000142,F,2025-02-28,08:40,48,ILHA DO FRADE,True,True,True,True,False,True,True,14,19.4,High,4,Adult,0,Long
+1000004117,5009687,F,2025-02-28,09:00,22,PARQUE INDUSTRIAL,True,True,True,True,False,False,True,2,18.6,Low,4,Adult,0,Long
+1000006313,5006336,F,2025-02-28,09:20,73,ESTRELINHA,False,False,False,False,False,True,True,1,7.7,High,4,Senior,1,Medium
+1000004221,5002985,M,2025-02-28,09:40,63,TABUAZEIRO,True,True,False,True,False,True,True,12,20.0,High,4,Senior,0,Long
+1000007944,5009892,F,2025-02-28,10:00,8,SANTA CECÍLIA,False,True,True,True,False,True,True,13,13.8,Low,4,Minor,0,Medium
+1000008311,5000986,M,2025-02-28,10:20,6,CONSOLAÇÃO,True,False,False,False,False,True,True,13,9.9,Medium,4,Minor,0,Medium
+1000002611,5009132,M,2025-02-28,10:40,39,SANTA LÚCIA,False,True,True,True,False,False,True,11,18.9,Low,4,Adult,0,Long
+1000006039,5002220,F,2025-02-28,11:00,88,SEGURANÇA DO LAR,False,False,True,False,False,True,True,7,5.7,High,4,Senior,0,Medium
+1000006477,5007032,M,2025-02-28,11:20,11,REDENÇÃO,True,False,True,True,False,False,True,9,13.6,High,4,Minor,0,Medium
+1000003997,5008375,F,2025-02-28,11:40,18,GURIGICA,True,True,False,False,False,False,True,13,0.7,Low,4,Adult,0,Short
+1000002376,5008597,M,2025-02-28,12:00,56,SANTO ANDRÉ,True,True,True,True,False,True,True,8,4.4,Low,4,Adult,0,Short
+1000006384,5005282,M,2025-02-28,12:20,82,ILHA DAS CAIEIRAS,True,False,True,True,False,False,False,3,9.3,Low,4,Senior,0,Medium
+1000009734,5005548,F,2025-02-28,12:40,44,DO MOSCOSO,False,True,False,False,False,True,True,8,19.4,High,4,Adult,0,Long
+1000001270,5006623,M,2025-02-28,13:00,1,JESUS DE NAZARETH,False,False,True,False,False,False,False,10,15.9,High,4,Minor,0,Long
+1000001388,5001184,M,2025-02-28,13:20,85,PRAIA DO SUÁ,True,False,True,False,False,False,True,10,10.7,Medium,4,Senior,0,Medium
+1000009788,5007879,M,2025-02-28,13:40,29,SÃO CRISTÓVÃO,False,False,False,False,False,False,True,6,1.2,Low,4,Adult,0,Short
+1000000737,5005757,F,2025-02-28,14:00,27,SANTA CECÍLIA,False,True,False,False,False,True,True,7,3.4,Low,4,Adult,0,Short
+1000000268,5005663,M,2025-02-28,14:20,28,CRUZAMENTO,False,True,True,False,False,True,True,1,13.6,High,4,Adult,1,Medium
+1000002244,5003792,F,2025-02-28,14:40,52,BELA VISTA,True,False,True,True,False,True,True,12,12.7,Low,4,Adult,0,Medium
+1000006322,5000516,M,2025-02-28,15:00,3,ROMÃO,True,False,False,False,False,False,True,0,9.5,Low,4,Minor,1,Medium
+1000007678,5000998,M,2025-02-28,15:20,72,SANTO ANTÔNIO,True,False,True,False,False,False,True,14,18.2,High,4,Senior,0,Long
+1000008089,5005224,F,2025-02-28,15:40,82,SANTO ANTÔNIO,False,True,True,True,False,True,True,14,0.9,High,4,Senior,0,Short
+1000009785,5004776,M,2025-02-28,16:00,16,JESUS DE NAZARETH,False,False,False,False,False,True,True,6,3.2,High,4,Minor,0,Short
+1000002315,5005258,F,2025-02-28,16:20,6,SANTA HELENA,True,True,False,False,False,False,True,6,20.0,Medium,4,Minor,0,Long
+1000007410,5000987,M,2025-02-28,16:40,46,CONSOLAÇÃO,True,True,False,True,False,True,True,14,17.1,Medium,4,Adult,0,Long
+1000005163,5003256,F,2025-03-01,08:00,58,AEROPORTO,True,False,True,False,False,False,True,1,18.3,High,5,Adult,1,Long
+1000006374,5005046,F,2025-03-01,08:20,2,MORADA DE CAMBURI,False,False,True,True,False,True,True,13,7.4,Medium,5,Minor,0,Medium
+1000008163,5000373,M,2025-03-01,08:40,51,SANTA TEREZA,True,True,False,True,False,True,True,3,8.0,High,5,Adult,0,Medium
+1000005012,5002114,F,2025-03-01,09:00,65,CENTRO,False,False,False,True,False,True,True,12,9.6,Low,5,Senior,0,Medium
+1000000703,5007833,F,2025-03-01,09:20,36,MARUÍPE,True,True,False,False,False,False,True,0,13.5,Medium,5,Adult,1,Medium
+1000004158,5007508,F,2025-03-01,09:40,11,REDENÇÃO,True,True,False,False,False,False,True,8,2.3,High,5,Minor,0,Short
+1000008567,5006366,M,2025-03-01,10:00,12,RESISTÊNCIA,False,True,True,False,False,True,True,1,4.8,High,5,Minor,1,Short
+1000000946,5008123,F,2025-03-01,10:20,15,SEGURANÇA DO LAR,False,False,True,False,False,True,False,12,3.6,Medium,5,Minor,0,Short
+1000007941,5007841,F,2025-03-01,10:40,28,ILHA DAS CAIEIRAS,False,False,True,False,False,True,True,0,13.1,High,5,Adult,1,Medium
+1000004419,5001368,F,2025-03-01,11:00,10,SÃO CRISTÓVÃO,True,True,True,False,False,False,True,14,5.7,Low,5,Minor,0,Medium
+1000002860,5004796,M,2025-03-01,11:20,54,ANDORINHAS,False,True,True,False,False,True,True,8,11.0,Medium,5,Adult,0,Medium
+1000002586,5002832,F,2025-03-01,11:40,66,SANTA LUÍZA,True,False,True,False,False,True,True,13,12.7,Medium,5,Senior,0,Medium
+1000003062,5007788,M,2025-03-01,12:00,85,SANTA CLARA,True,True,False,False,False,False,True,8,7.4,Medium,5,Senior,0,Medium
+1000000453,5009998,F,2025-03-01,12:20,76,JOANA D´ARC,True,False,True,False,False,False,False,4,9.4,Low,5,Senior,0,Medium
+1000006181,5001093,M,2025-03-01,12:40,59,TABUAZEIRO,False,False,False,False,False,True,True,7,19.6,Low,5,Adult,0,Long
+1000006984,5003296,M,2025-03-01,13:00,41,ESTRELINHA,True,False,False,False,False,True,False,12,13.4,High,5,Adult,0,Medium
+1000002311,5006998,M,2025-03-01,13:20,18,PARQUE INDUSTRIAL,False,True,True,False,False,True,True,10,4.6,Low,5,Adult,0,Short
+1000003483,5007611,F,2025-03-01,13:40,44,REDENÇÃO,True,True,True,True,False,False,True,3,14.9,Low,5,Adult,0,Medium
+1000003309,5000714,M,2025-03-01,14:00,20,SANTOS REIS,True,False,False,False,False,False,True,10,10.4,Medium,5,Adult,0,Medium
+1000008208,5002482,F,2025-03-01,14:20,40,DO CABRAL,True,False,True,False,False,True,True,9,17.6,Medium,5,Adult,0,Long
+1000000713,5002191,M,2025-03-01,14:40,48,SANTA CLARA,False,False,True,True,False,False,True,1,9.6,High,5,Adult,1,Medium
+1000003951,5005311,M,2025-03-01,15:00,78,ILHA DO PRÍNCIPE,True,False,False,True,False,True,True,13,19.8,Medium,5,Senior,0,Long
+1000009505,5007243,M,2025-03-01,15:20,82,SÃO CRISTÓVÃO,True,False,False,True,False,False,True,4,11.1,Medium,5,Senior,0,Medium
+1000005799,5001028,M,2025-03-01,15:40,22,SANTO ANTÔNIO,False,True,False,True,False,True,True,13,19.2,Low,5,Adult,0,Long
+1000009836,5004472,F,2025-03-01,16:00,77,JARDIM DA PENHA,True,False,False,True,False,False,True,1,17.1,High,5,Senior,1,Long
+1000005824,5008338,M,2025-03-01,16:20,0,SEGURANÇA DO LAR,True,True,True,False,False,True,False,14,10.3,High,5,Minor,0,Medium
+1000007536,5003133,M,2025-03-01,16:40,47,TABUAZEIRO,True,False,True,False,False,True,True,0,12.7,Medium,5,Adult,1,Medium
+1000005812,5009750,M,2025-03-02,08:00,59,ROMÃO,False,False,False,True,False,False,True,14,5.4,High,6,Adult,0,Medium
+1000003489,5003638,M,2025-03-02,08:20,27,MÁRIO CYPRESTE,False,False,True,True,True,False,True,9,9.3,High,6,Adult,0,Medium
+1000001916,5005796,M,2025-03-02,08:40,56,ILHA DO BOI,True,False,False,True,False,False,True,7,0.5,High,6,Adult,0,Short
+1000006782,5002034,M,2025-03-02,09:00,27,VILA RUBIM,True,False,False,False,False,True,True,3,12.7,High,6,Adult,0,Medium
+1000006330,5007256,F,2025-03-02,09:20,55,JOANA D´ARC,False,False,False,True,False,True,False,11,9.4,High,6,Adult,0,Medium
+1000002099,5008160,F,2025-03-02,09:40,35,DO CABRAL,False,False,False,True,False,True,True,6,12.3,Low,6,Adult,0,Medium
+1000000932,5007472,M,2025-03-02,10:00,72,BOA VISTA,True,True,False,False,False,False,True,7,17.5,High,6,Senior,0,Long
+1000001852,5007620,M,2025-03-02,10:20,60,SANTOS REIS,True,False,False,True,False,False,True,13,15.9,Low,6,Senior,0,Long
+1000008283,5005504,M,2025-03-02,10:40,54,CONSOLAÇÃO,True,True,False,True,False,False,False,10,8.6,Low,6,Adult,0,Medium
+1000009286,5005503,F,2025-03-02,11:00,57,MORADA DE CAMBURI,True,False,False,True,False,True,True,2,7.2,Low,6,Adult,0,Medium
+1000002548,5009425,F,2025-03-02,11:20,66,CRUZAMENTO,True,False,True,False,True,False,True,1,7.5,Low,6,Senior,1,Medium
+1000006350,5000639,F,2025-03-02,11:40,38,BELA VISTA,True,True,True,False,False,True,True,2,11.9,Low,6,Adult,0,Medium
+1000008522,5003586,F,2025-03-02,12:00,89,NAZARETH,False,False,True,True,False,True,True,6,19.4,High,6,Senior,0,Long
+1000009085,5006553,F,2025-03-02,12:20,24,JESUS DE NAZARETH,False,True,True,True,False,True,True,4,7.0,Medium,6,Adult,0,Medium
+1000000615,5006557,M,2025-03-02,12:40,58,BENTO FERREIRA,False,False,True,True,False,False,True,9,10.5,Low,6,Adult,0,Medium
+1000006190,5001631,F,2025-03-02,13:00,13,JOANA D´ARC,True,False,True,True,False,True,False,11,19.3,Medium,6,Minor,0,Long
+1000009183,5002458,F,2025-03-02,13:20,48,PARQUE MOSCOSO,True,False,False,True,True,False,False,8,13.4,High,6,Adult,0,Medium
+1000003528,5008792,F,2025-03-02,13:40,9,SANTA MARTHA,True,False,True,True,False,True,True,4,14.3,Medium,6,Minor,0,Medium
+1000008624,5000737,M,2025-03-02,14:00,84,DO MOSCOSO,True,True,False,True,False,False,True,14,1.7,Low,6,Senior,0,Short
+1000008560,5009566,M,2025-03-02,14:20,7,GURIGICA,True,False,False,True,False,True,True,12,8.4,High,6,Minor,0,Medium
+1000003435,5006302,M,2025-03-02,14:40,19,CENTRO,False,False,True,True,False,True,True,14,10.1,Low,6,Adult,0,Medium
+1000004297,5001582,M,2025-03-02,15:00,87,ESTRELINHA,True,True,False,True,False,True,False,4,6.9,Low,6,Senior,0,Medium
+1000007304,5000831,M,2025-03-02,15:20,21,ARIOVALDO FAVALESSA,True,False,True,True,False,False,True,12,9.0,High,6,Adult,0,Medium
+1000009818,5005420,M,2025-03-02,15:40,57,JUCUTUQUARA,True,True,True,True,False,True,False,7,17.4,High,6,Adult,0,Long
+1000003828,5007787,F,2025-03-02,16:00,5,PONTAL DE CAMBURI,False,False,False,False,False,False,True,6,18.0,Low,6,Minor,0,Long
+1000007737,5006888,F,2025-03-02,16:20,28,SANTA LÚCIA,True,False,True,True,False,True,True,12,15.9,Low,6,Adult,0,Long
+1000000884,5004761,F,2025-03-02,16:40,53,BONFIM,True,True,True,True,False,True,True,9,19.4,Low,6,Adult,0,Long
+1000001438,5007305,F,2025-03-03,08:00,11,ROMÃO,True,True,True,True,False,False,True,13,8.3,High,0,Minor,0,Medium
+1000006439,5005488,F,2025-03-03,08:20,31,ANTÔNIO HONÓRIO,True,False,False,False,False,True,True,10,16.9,High,0,Adult,0,Long
+1000000709,5005223,M,2025-03-03,08:40,6,DO MOSCOSO,False,False,True,True,False,False,False,12,9.1,Medium,0,Minor,0,Medium
+1000008129,5007547,F,2025-03-03,09:00,1,PARQUE INDUSTRIAL,True,True,True,False,False,False,False,1,9.3,Low,0,Minor,1,Medium
+1000006967,5004301,M,2025-03-03,09:20,21,BONFIM,True,False,False,True,False,True,True,6,19.9,Medium,0,Adult,0,Long
+1000007076,5001168,F,2025-03-03,09:40,35,MONTE BELO,False,False,True,False,False,True,True,12,0.9,Low,0,Adult,0,Short
+1000003980,5008177,M,2025-03-03,10:00,6,ILHA DAS CAIEIRAS,False,False,True,True,False,True,True,10,9.8,Medium,0,Minor,0,Medium
+1000008638,5001281,M,2025-03-03,10:20,7,JARDIM CAMBURI,False,False,False,True,False,False,True,10,15.5,Low,0,Minor,0,Long
+1000009613,5001008,M,2025-03-03,10:40,37,SÃO BENEDITO,True,True,True,False,False,True,True,1,17.0,High,0,Adult,1,Long
+1000001955,5005467,M,2025-03-03,11:00,7,SANTA MARTHA,True,False,False,False,False,True,True,11,12.6,Low,0,Minor,0,Medium
+1000006497,5002471,F,2025-03-03,11:20,76,ESTRELINHA,True,True,False,False,False,True,True,11,8.3,High,0,Senior,0,Medium
+1000002113,5008008,F,2025-03-03,11:40,2,CENTRO,True,True,True,False,False,True,True,1,16.2,Low,0,Minor,1,Long
+1000001167,5009100,M,2025-03-03,12:00,77,ILHA DE SANTA MARIA,False,False,False,False,False,True,True,11,11.0,High,0,Senior,0,Medium
+1000009049,5001255,M,2025-03-03,12:20,51,SÃO JOSÉ,True,True,True,False,False,False,True,7,1.8,Low,0,Adult,0,Short
+1000008123,5003592,F,2025-03-03,12:40,39,DA PENHA,False,False,True,False,False,True,False,0,10.5,Low,0,Adult,1,Medium
+1000001482,5007304,F,2025-03-03,13:00,68,SANTA CECÍLIA,True,True,True,False,False,False,True,14,13.0,Low,0,Senior,0,Medium
+1000005313,5002810,M,2025-03-03,13:20,60,SANTA LÚCIA,False,True,True,True,False,False,True,14,15.6,Low,0,Senior,0,Long
+1000003805,5009632,F,2025-03-03,13:40,77,BELA VISTA,True,False,False,False,False,False,True,7,13.0,Medium,0,Senior,0,Medium
+1000001544,5006021,M,2025-03-03,14:00,36,BONFIM,True,True,True,True,True,True,True,12,2.1,Low,0,Adult,0,Short
+1000008108,5007702,F,2025-03-03,14:20,80,COMDUSA,False,False,False,False,False,True,False,0,10.9,Low,0,Senior,1,Medium
+1000007300,5005296,M,2025-03-03,14:40,37,ANTÔNIO HONÓRIO,False,False,True,False,False,False,True,14,16.8,Medium,0,Adult,0,Long
+1000004362,5005786,M,2025-03-03,15:00,15,SANTA LÚCIA,True,False,True,True,False,True,True,6,2.8,High,0,Minor,0,Short
+1000003506,5006235,M,2025-03-03,15:20,0,FORTE SÃO JOÃO,True,True,True,False,False,False,True,10,1.6,High,0,Minor,0,Short
+1000009131,5006082,F,2025-03-03,15:40,24,JARDIM CAMBURI,True,True,True,False,False,True,True,6,6.2,High,0,Adult,0,Medium
+1000007099,5003138,F,2025-03-03,16:00,59,SANTA LÚCIA,True,True,False,True,False,True,True,1,18.7,Medium,0,Adult,1,Long
+1000004161,5003832,F,2025-03-03,16:20,73,SOLON BORGES,True,True,False,False,False,False,True,14,7.2,Medium,0,Senior,0,Medium
+1000008318,5007961,M,2025-03-03,16:40,33,BENTO FERREIRA,True,True,False,True,False,True,True,7,13.2,High,0,Adult,0,Medium
+1000003667,5000772,F,2025-03-04,08:00,22,SÃO BENEDITO,True,False,False,False,False,False,True,8,19.8,Low,1,Adult,0,Long
+1000002963,5005044,F,2025-03-04,08:20,16,CONSOLAÇÃO,True,False,True,True,False,False,True,1,4.1,Low,1,Minor,1,Short
+1000000239,5009354,M,2025-03-04,08:40,70,PARQUE INDUSTRIAL,True,True,True,False,False,False,True,10,18.7,Low,1,Senior,0,Long
+1000003812,5004066,M,2025-03-04,09:00,42,ESTRELINHA,False,False,True,True,False,True,True,7,12.2,High,1,Adult,0,Medium
+1000003322,5002723,M,2025-03-04,09:20,78,CONSOLAÇÃO,False,True,True,True,False,True,True,1,5.0,High,1,Senior,1,Medium
+1000006817,5002311,M,2025-03-04,09:40,56,SANTA MARTHA,False,False,True,False,False,False,True,8,18.7,Low,1,Adult,0,Long
+1000009875,5007981,M,2025-03-04,10:00,7,MONTE BELO,True,True,False,True,False,True,False,12,19.3,High,1,Minor,0,Long
+1000009328,5003196,F,2025-03-04,10:20,72,UNIVERSITÁRIO,True,True,False,False,False,True,False,3,5.3,Medium,1,Senior,0,Medium
+1000006581,5005447,F,2025-03-04,10:40,42,INHANGUETÁ,True,True,False,True,False,False,True,10,8.4,Low,1,Adult,0,Medium
+1000004681,5006296,M,2025-03-04,11:00,34,SANTO ANTÔNIO,False,True,False,True,False,True,True,14,10.6,Medium,1,Adult,0,Medium
+1000001405,5008051,M,2025-03-04,11:20,38,MARIA ORTIZ,False,False,False,True,False,False,True,12,3.9,Low,1,Adult,0,Short
+1000004473,5007135,F,2025-03-04,11:40,15,PRAIA DO SUÁ,False,True,False,False,False,True,False,2,16.7,High,1,Minor,0,Long
+1000006760,5008115,F,2025-03-04,12:00,28,SANTA TEREZA,False,False,True,True,False,True,True,13,15.6,Low,1,Adult,0,Long
+1000004264,5004654,M,2025-03-04,12:20,25,CARATOÍRA,True,False,True,False,False,False,True,0,14.6,Low,1,Adult,1,Medium
+1000006031,5004578,M,2025-03-04,12:40,5,MARUÍPE,False,True,True,True,False,True,True,2,17.8,Medium,1,Minor,0,Long
+1000000283,5004306,F,2025-03-04,13:00,10,PRAIA DO CANTO,False,True,True,False,False,False,True,2,19.7,High,1,Minor,0,Long
+1000002022,5002249,M,2025-03-04,13:20,21,AEROPORTO,True,True,True,False,False,False,True,11,6.9,Low,1,Adult,0,Medium
+1000005621,5004224,F,2025-03-04,13:40,37,GRANDE VITÓRIA,False,True,False,False,False,True,True,0,7.3,Low,1,Adult,1,Medium
+1000001880,5000137,M,2025-03-04,14:00,59,PIEDADE,False,True,True,False,False,False,True,9,2.4,High,1,Adult,0,Short
+1000001350,5004884,F,2025-03-04,14:20,50,REPÚBLICA,True,False,True,True,False,True,True,11,7.9,Low,1,Adult,0,Medium
+1000002118,5008186,M,2025-03-04,14:40,58,SANTA LÚCIA,True,False,False,False,False,True,True,10,5.1,High,1,Adult,0,Medium
+1000004022,5003938,F,2025-03-04,15:00,82,VILA RUBIM,True,True,False,True,False,True,True,2,19.6,High,1,Senior,0,Long
+1000009384,5005603,M,2025-03-04,15:20,32,MÁRIO CYPRESTE,True,False,False,False,False,True,False,6,0.5,Low,1,Adult,0,Short
+1000002777,5007317,F,2025-03-04,15:40,11,ILHA DO BOI,True,True,False,True,False,False,False,1,11.9,Medium,1,Minor,1,Medium
+1000001737,5002251,M,2025-03-04,16:00,64,PARQUE MOSCOSO,False,False,False,True,False,True,True,4,11.2,Low,1,Senior,0,Medium
+1000006062,5009259,F,2025-03-04,16:20,76,CONQUISTA,False,True,False,True,False,True,True,0,1.3,High,1,Senior,1,Short
+1000001500,5001841,M,2025-03-04,16:40,31,BENTO FERREIRA,True,True,True,False,False,False,False,12,10.7,Low,1,Adult,0,Medium
+1000004579,5004355,F,2025-03-05,08:00,87,SANTA HELENA,True,True,True,True,False,True,True,2,3.0,Low,2,Senior,0,Short
+1000007074,5009957,F,2025-03-05,08:20,87,PRAIA DO CANTO,True,True,True,False,False,True,True,12,19.3,High,2,Senior,0,Long
+1000009717,5001867,M,2025-03-05,08:40,70,DE LOURDES,True,True,False,True,False,True,False,11,10.3,Low,2,Senior,0,Medium
+1000000518,5005700,M,2025-03-05,09:00,70,BELA VISTA,False,False,False,False,False,False,True,2,2.7,Medium,2,Senior,0,Short
+1000003015,5002124,F,2025-03-05,09:20,81,SOLON BORGES,False,False,False,True,False,True,True,3,10.4,Low,2,Senior,0,Medium
+1000000586,5005108,M,2025-03-05,09:40,66,SANTA CLARA,False,True,False,True,False,False,True,5,10.5,Low,2,Senior,0,Medium
+1000000389,5002163,F,2025-03-05,10:00,64,JOANA D´ARC,True,False,False,False,False,False,True,5,13.5,High,2,Senior,0,Medium
+1000003374,5006902,F,2025-03-05,10:20,36,SANTA CECÍLIA,True,False,True,True,False,False,True,12,13.5,High,2,Adult,0,Medium
+1000005514,5009296,M,2025-03-05,10:40,83,SOLON BORGES,True,False,False,True,True,True,True,13,4.2,Low,2,Senior,0,Short
+1000006014,5006589,M,2025-03-05,11:00,19,DA PENHA,True,False,True,True,False,True,True,13,5.9,High,2,Adult,0,Medium
+1000008666,5003840,F,2025-03-05,11:20,88,ILHA DO PRÍNCIPE,True,False,False,True,False,False,True,0,5.7,High,2,Senior,1,Medium
+1000000128,5005973,F,2025-03-05,11:40,2,BELA VISTA,True,False,True,False,False,False,True,1,17.9,Medium,2,Minor,1,Long
+1000006351,5008131,M,2025-03-05,12:00,73,MARIA ORTIZ,True,False,True,True,False,False,True,1,9.3,Low,2,Senior,1,Medium
+1000007108,5007929,M,2025-03-05,12:20,75,FRADINHOS,True,False,True,True,False,True,True,7,12.3,High,2,Senior,0,Medium
+1000009856,5008012,F,2025-03-05,12:40,19,ENSEADA DO SUÁ,True,True,True,True,False,False,False,10,6.6,Medium,2,Adult,0,Medium
+1000006216,5006879,M,2025-03-05,13:00,63,SOLON BORGES,False,True,False,True,False,True,True,12,18.7,Medium,2,Senior,0,Long
+1000006513,5009274,F,2025-03-05,13:20,71,ILHAS OCEÂNICAS DE TRINDADE,False,True,False,True,False,True,False,7,1.9,Low,2,Senior,0,Short
+1000009505,5003717,M,2025-03-05,13:40,3,SANTA CECÍLIA,True,False,True,True,False,True,True,11,10.7,Low,2,Minor,0,Medium
+1000004387,5009184,M,2025-03-05,14:00,40,REDENÇÃO,False,True,False,False,False,False,True,11,7.6,High,2,Adult,0,Medium
+1000000094,5007730,M,2025-03-05,14:20,76,ANDORINHAS,True,True,False,True,False,False,True,1,7.0,Low,2,Senior,1,Medium
+1000008704,5003649,F,2025-03-05,14:40,50,COMDUSA,True,True,False,False,False,False,True,3,16.7,Medium,2,Adult,0,Long
+1000000704,5003405,F,2025-03-05,15:00,26,PONTAL DE CAMBURI,True,True,False,True,False,True,True,1,10.1,Medium,2,Adult,1,Medium
+1000004504,5000304,M,2025-03-05,15:20,11,SANTO ANTÔNIO,False,True,True,True,False,True,True,2,7.6,High,2,Minor,0,Medium
+1000003216,5001136,M,2025-03-05,15:40,76,VILA RUBIM,False,False,False,False,False,False,True,2,1.5,Medium,2,Senior,0,Short
+1000005802,5003242,F,2025-03-05,16:00,62,AEROPORTO,False,True,True,True,False,True,True,5,18.1,High,2,Senior,0,Long
+1000001802,5005656,F,2025-03-05,16:20,77,JARDIM DA PENHA,True,False,False,True,False,True,True,7,13.6,Medium,2,Senior,0,Medium
+1000002650,5002082,F,2025-03-05,16:40,45,DE LOURDES,False,False,False,True,False,False,True,0,6.2,Low,2,Adult,1,Medium
+1000004247,5000457,M,2025-03-06,08:00,5,SÃO CRISTÓVÃO,False,True,False,False,False,False,True,5,11.4,Medium,3,Minor,0,Medium
+1000007779,5001766,F,2025-03-06,08:20,89,JABOUR,False,True,False,True,False,False,True,1,13.0,Medium,3,Senior,1,Medium
+1000008028,5003241,M,2025-03-06,08:40,11,SEGURANÇA DO LAR,False,False,True,True,False,False,True,14,17.6,Low,3,Minor,0,Long
+1000000979,5009793,F,2025-03-06,09:00,74,BARRO VERMELHO,False,True,True,False,False,False,True,7,13.3,High,3,Senior,0,Medium
+1000006078,5004748,F,2025-03-06,09:20,68,ARIOVALDO FAVALESSA,True,True,True,False,False,False,True,14,12.2,High,3,Senior,0,Medium
+1000001307,5006898,F,2025-03-06,09:40,55,BARRO VERMELHO,False,True,True,True,False,True,False,0,17.4,Low,3,Adult,1,Long
+1000001921,5002863,M,2025-03-06,10:00,52,ESTRELINHA,False,False,True,False,False,True,True,1,12.7,High,3,Adult,1,Medium
+1000004497,5008260,F,2025-03-06,10:20,34,SEGURANÇA DO LAR,False,False,True,False,False,False,False,7,15.7,High,3,Adult,0,Long
+1000008600,5009657,M,2025-03-06,10:40,47,CONSOLAÇÃO,False,False,True,False,False,True,True,14,13.4,Medium,3,Adult,0,Medium
+1000005749,5008380,F,2025-03-06,11:00,82,DO CABRAL,True,False,False,False,False,False,True,9,2.7,Low,3,Senior,0,Short
+1000004701,5005328,M,2025-03-06,11:20,22,REDENÇÃO,True,True,True,True,False,True,True,7,1.8,Low,3,Adult,0,Short
+1000005891,5002063,F,2025-03-06,11:40,9,BELA VISTA,False,False,False,False,False,False,False,7,2.1,Medium,3,Minor,0,Short
+1000007036,5007839,M,2025-03-06,12:00,86,CONSOLAÇÃO,False,False,True,True,False,True,True,8,9.3,High,3,Senior,0,Medium
+1000003805,5002353,M,2025-03-06,12:20,26,SANTOS DUMONT,False,True,False,True,False,True,True,14,14.3,High,3,Adult,0,Medium
+1000006409,5005413,M,2025-03-06,12:40,19,DO MOSCOSO,True,False,False,False,False,True,False,1,8.6,Low,3,Adult,1,Medium
+1000001600,5008461,M,2025-03-06,13:00,50,JUCUTUQUARA,False,True,False,True,False,False,True,0,1.3,High,3,Adult,1,Short
+1000009958,5002444,M,2025-03-06,13:20,61,MÁRIO CYPRESTE,True,False,False,True,False,False,True,8,10.5,High,3,Senior,0,Medium
+1000004612,5004713,F,2025-03-06,13:40,73,JABOUR,False,False,True,True,False,True,True,9,2.2,Low,3,Senior,0,Short
+1000001416,5006926,M,2025-03-06,14:00,69,SANTA MARTHA,True,False,True,False,True,False,True,4,0.8,Medium,3,Senior,0,Short
+1000006534,5006750,M,2025-03-06,14:20,27,SANTA CECÍLIA,False,False,True,False,False,True,False,11,18.9,Medium,3,Adult,0,Long
+1000005245,5002431,M,2025-03-06,14:40,30,PARQUE MOSCOSO,True,True,True,False,False,False,True,12,2.8,Low,3,Adult,0,Short
+1000002026,5002303,M,2025-03-06,15:00,66,MÁRIO CYPRESTE,True,True,True,True,False,False,False,5,19.6,Medium,3,Senior,0,Long
+1000009610,5007398,M,2025-03-06,15:20,67,NAZARETH,True,False,True,False,False,False,True,8,2.0,Medium,3,Senior,0,Short
+1000009642,5009435,F,2025-03-06,15:40,13,INHANGUETÁ,False,False,False,True,False,True,True,5,12.6,Low,3,Minor,0,Medium
+1000004298,5002807,M,2025-03-06,16:00,22,PRAIA DO CANTO,False,True,True,False,False,False,True,6,7.7,High,3,Adult,0,Medium
+1000002940,5001617,F,2025-03-06,16:20,77,CRUZAMENTO,True,True,True,False,False,False,False,7,4.7,High,3,Senior,0,Short
+1000003405,5009222,M,2025-03-06,16:40,79,SÃO CRISTÓVÃO,True,True,True,False,False,False,True,1,5.9,Low,3,Senior,1,Medium
+1000003697,5002213,M,2025-03-07,08:00,39,ENSEADA DO SUÁ,False,True,False,False,False,False,True,8,18.3,Low,4,Adult,0,Long
+1000001492,5003695,F,2025-03-07,08:20,28,FORTE SÃO JOÃO,True,False,True,False,False,True,True,11,6.1,Medium,4,Adult,0,Medium
+1000007500,5009905,F,2025-03-07,08:40,7,SANTOS REIS,True,True,True,True,False,True,True,2,8.1,High,4,Minor,0,Medium
+1000009966,5007568,F,2025-03-07,09:00,67,FORTE SÃO JOÃO,False,False,True,True,False,True,False,8,6.4,Medium,4,Senior,0,Medium
+1000005562,5006354,F,2025-03-07,09:20,85,MORADA DE CAMBURI,False,True,False,False,False,False,True,3,3.3,Low,4,Senior,0,Short
+1000003170,5006795,F,2025-03-07,09:40,21,SOLON BORGES,True,False,True,True,False,True,True,3,15.8,Low,4,Adult,0,Long
+1000001234,5008993,F,2025-03-07,10:00,16,BARRO VERMELHO,True,False,True,False,False,True,True,10,3.5,High,4,Minor,0,Short
+1000008149,5004954,M,2025-03-07,10:20,80,DO QUADRO,True,True,True,True,False,False,False,6,13.4,Medium,4,Senior,0,Medium
+1000008025,5000233,M,2025-03-07,10:40,15,BARRO VERMELHO,False,True,False,False,False,True,True,0,16.2,Medium,4,Minor,1,Long
+1000007488,5003931,M,2025-03-07,11:00,20,ILHA DO FRADE,False,False,False,False,False,False,True,6,16.8,Medium,4,Adult,0,Long
+1000005917,5005350,F,2025-03-07,11:20,15,ESTRELINHA,True,True,False,True,False,True,False,10,4.4,Medium,4,Minor,0,Short
+1000005866,5002726,M,2025-03-07,11:40,19,ILHA DE SANTA MARIA,False,True,True,True,False,False,True,7,1.1,Low,4,Adult,0,Short
+1000001105,5009805,F,2025-03-07,12:00,22,MATA DA PRAIA,False,False,False,True,False,True,True,9,2.0,Medium,4,Adult,0,Short
+1000009872,5009731,F,2025-03-07,12:20,43,NOVA PALESTINA,False,True,False,False,False,False,True,4,12.2,Medium,4,Adult,0,Medium
+1000007718,5005891,M,2025-03-07,12:40,79,SANTOS DUMONT,True,False,True,False,False,True,True,5,8.7,Medium,4,Senior,0,Medium
+1000005432,5005205,M,2025-03-07,13:00,54,BOA VISTA,False,True,True,True,False,True,True,1,9.2,Medium,4,Adult,1,Medium
+1000009202,5001347,F,2025-03-07,13:20,69,ANDORINHAS,False,True,True,True,True,False,True,1,12.0,Medium,4,Senior,1,Medium
+1000009587,5008969,F,2025-03-07,13:40,80,SÃO PEDRO,True,True,False,True,False,True,True,14,17.3,Low,4,Senior,0,Long
+1000004255,5008916,M,2025-03-07,14:00,40,FONTE GRANDE,False,True,False,False,False,False,True,7,4.5,Low,4,Adult,0,Short
+1000001043,5004242,F,2025-03-07,14:20,81,JABOUR,False,False,False,True,False,False,True,4,2.8,Low,4,Senior,0,Short
+1000005452,5002861,F,2025-03-07,14:40,60,DA PENHA,True,False,False,True,False,False,True,8,4.4,Medium,4,Senior,0,Short
+1000002251,5004028,M,2025-03-07,15:00,37,ENSEADA DO SUÁ,True,False,True,True,False,True,True,14,7.6,Low,4,Adult,0,Medium
+1000002206,5008366,M,2025-03-07,15:20,35,PARQUE INDUSTRIAL,True,False,False,True,False,True,True,2,7.6,Medium,4,Adult,0,Medium
+1000000144,5007913,M,2025-03-07,15:40,59,SANTOS DUMONT,True,True,True,False,False,False,True,12,12.9,Low,4,Adult,0,Medium
+1000007866,5008925,M,2025-03-07,16:00,86,MARIA ORTIZ,False,True,True,False,False,False,False,7,11.5,High,4,Senior,0,Medium
+1000007859,5000094,M,2025-03-07,16:20,1,JESUS DE NAZARETH,False,True,True,False,False,True,False,6,10.1,Low,4,Minor,0,Medium
+1000008684,5002274,M,2025-03-07,16:40,24,CONQUISTA,False,True,False,False,False,True,True,12,6.1,Low,4,Adult,0,Medium
+1000003953,5004774,F,2025-03-08,08:00,37,SÃO PEDRO,True,False,False,False,False,True,True,9,10.4,Medium,5,Adult,0,Medium
+1000006443,5006183,M,2025-03-08,08:20,30,SANTOS REIS,False,False,True,False,False,False,True,14,17.5,High,5,Adult,0,Long
+1000001457,5006467,M,2025-03-08,08:40,48,SÃO JOSÉ,True,False,True,True,False,True,True,11,12.7,Medium,5,Adult,0,Medium
+1000008320,5000105,M,2025-03-08,09:00,42,CRUZAMENTO,False,True,True,True,False,True,True,12,18.8,High,5,Adult,0,Long
+1000006133,5006520,M,2025-03-08,09:20,17,FRADINHOS,False,True,False,True,False,True,True,3,17.4,Low,5,Minor,0,Long
+1000009783,5005524,F,2025-03-08,09:40,39,ILHA DAS CAIEIRAS,True,True,True,True,False,False,True,10,1.0,Medium,5,Adult,0,Short
+1000007214,5001477,M,2025-03-08,10:00,41,SANTA CECÍLIA,False,False,True,False,False,False,True,13,13.8,High,5,Adult,0,Medium
+1000008276,5004168,M,2025-03-08,10:20,42,PARQUE MOSCOSO,False,False,True,True,False,True,True,5,6.8,Medium,5,Adult,0,Medium
+1000008405,5009004,F,2025-03-08,10:40,76,ANTÔNIO HONÓRIO,False,True,False,True,False,False,True,6,15.2,Low,5,Senior,0,Long
+1000007080,5009641,F,2025-03-08,11:00,34,MARUÍPE,False,True,False,False,False,True,True,2,7.2,Low,5,Adult,0,Medium
+1000009479,5000717,F,2025-03-08,11:20,88,ITARARÉ,False,True,False,False,False,True,True,13,3.7,Medium,5,Senior,0,Short
+1000006494,5003956,M,2025-03-08,11:40,60,INHANGUETÁ,True,False,False,True,False,False,True,11,14.6,Medium,5,Senior,0,Medium
+1000002818,5008486,F,2025-03-08,12:00,78,BELA VISTA,False,True,False,False,False,True,True,10,7.6,High,5,Senior,0,Medium
+1000000100,5000166,F,2025-03-08,12:20,78,RESISTÊNCIA,False,True,True,True,False,False,True,6,18.5,Medium,5,Senior,0,Long
+1000003670,5005033,F,2025-03-08,12:40,4,ILHA DO PRÍNCIPE,False,True,True,True,False,True,True,10,18.8,Medium,5,Minor,0,Long
+1000003132,5000140,M,2025-03-08,13:00,26,PONTAL DE CAMBURI,True,False,False,True,False,False,True,0,6.8,Low,5,Adult,1,Medium
+1000007190,5000935,F,2025-03-08,13:20,70,ARIOVALDO FAVALESSA,True,False,True,True,False,True,True,9,3.1,Medium,5,Senior,0,Short
+1000005693,5004829,M,2025-03-08,13:40,87,DO MOSCOSO,False,True,True,False,False,True,True,11,16.9,Medium,5,Senior,0,Long
+1000002416,5009371,M,2025-03-08,14:00,15,MÁRIO CYPRESTE,True,True,False,False,False,False,False,7,12.8,Low,5,Minor,0,Medium
+1000001610,5004479,M,2025-03-08,14:20,14,ILHA DO PRÍNCIPE,False,True,True,True,False,False,True,2,6.9,Low,5,Minor,0,Medium
+1000002759,5000686,M,2025-03-08,14:40,49,BELA VISTA,True,True,True,False,False,False,False,7,8.7,High,5,Adult,0,Medium
+1000000985,5001793,M,2025-03-08,15:00,10,SANTA LÚCIA,False,True,False,True,False,True,True,13,13.4,Low,5,Minor,0,Medium
+1000007195,5001924,M,2025-03-08,15:20,73,FORTE SÃO JOÃO,False,False,True,False,False,False,True,5,4.4,Medium,5,Senior,0,Short
+1000002479,5008263,F,2025-03-08,15:40,10,ANDORINHAS,False,False,False,False,False,True,True,11,1.7,Low,5,Minor,0,Short
+1000000899,5002604,F,2025-03-08,16:00,27,DA PENHA,True,True,False,False,False,False,True,6,15.6,Low,5,Adult,0,Long
+1000005311,5005628,F,2025-03-08,16:20,73,ILHA DO BOI,False,True,False,False,False,False,True,10,3.1,Low,5,Senior,0,Short
+1000002852,5001433,F,2025-03-08,16:40,23,JARDIM DA PENHA,False,False,True,False,False,False,True,5,5.2,Low,5,Adult,0,Medium
+1000001472,5003027,F,2025-03-09,08:00,56,JOANA D´ARC,True,True,False,True,False,False,True,7,5.9,High,6,Adult,0,Medium
+1000000227,5000925,F,2025-03-09,08:20,7,CONQUISTA,False,True,False,True,False,True,True,13,8.6,High,6,Minor,0,Medium
+1000009857,5008786,F,2025-03-09,08:40,13,SANTOS REIS,True,False,True,True,False,True,True,14,11.7,Low,6,Minor,0,Medium
+1000006062,5004982,M,2025-03-09,09:00,7,JABOUR,True,True,False,True,False,True,True,6,1.5,High,6,Minor,0,Short
+1000008073,5002415,M,2025-03-09,09:20,53,ANDORINHAS,False,False,False,False,True,True,False,1,5.3,High,6,Adult,1,Medium
+1000000748,5008467,M,2025-03-09,09:40,29,ILHA DO BOI,False,False,True,True,False,True,True,4,14.5,High,6,Adult,0,Medium
+1000009078,5008072,M,2025-03-09,10:00,57,PRAIA DO SUÁ,False,False,True,False,False,True,True,14,16.5,High,6,Adult,0,Long
+1000000900,5008673,F,2025-03-09,10:20,80,GURIGICA,False,True,False,True,False,True,True,2,2.8,Low,6,Senior,0,Short
+1000001309,5002388,M,2025-03-09,10:40,50,SANTA MARTHA,False,False,False,False,False,True,True,12,18.8,High,6,Adult,0,Long
+1000004755,5008869,F,2025-03-09,11:00,52,DA PENHA,False,True,False,False,False,False,True,4,7.2,Low,6,Adult,0,Medium
+1000005091,5000581,F,2025-03-09,11:20,80,CONSOLAÇÃO,True,True,False,False,False,False,True,14,18.0,High,6,Senior,0,Long
+1000009856,5002821,M,2025-03-09,11:40,9,JOANA D´ARC,True,True,False,True,False,False,True,14,14.0,Low,6,Minor,0,Medium
+1000003064,5000015,M,2025-03-09,12:00,14,TABUAZEIRO,False,True,True,True,False,False,True,7,15.9,High,6,Minor,0,Long
+1000001972,5009511,F,2025-03-09,12:20,9,MONTE BELO,True,False,True,True,False,False,True,1,1.7,Low,6,Minor,1,Short
+1000007032,5005891,M,2025-03-09,12:40,8,SANTO ANDRÉ,True,False,True,False,False,True,True,9,15.0,Low,6,Minor,0,Long
+1000002122,5004252,M,2025-03-09,13:00,21,ITARARÉ,False,True,True,True,True,False,True,6,9.3,Low,6,Adult,0,Medium
+1000000479,5000034,F,2025-03-09,13:20,67,ILHA DO FRADE,True,True,True,False,False,True,True,11,19.5,High,6,Senior,0,Long
+1000007497,5000550,F,2025-03-09,13:40,35,JABOUR,False,False,True,True,False,True,True,5,6.7,High,6,Adult,0,Medium
+1000007698,5008177,M,2025-03-09,14:00,33,DO MOSCOSO,True,True,False,True,False,True,True,11,10.1,Medium,6,Adult,0,Medium
+1000008460,5009394,M,2025-03-09,14:20,53,REDENÇÃO,True,True,False,True,False,False,True,2,15.9,High,6,Adult,0,Long
+1000004228,5000483,M,2025-03-09,14:40,14,ILHA DE SANTA MARIA,False,False,True,True,False,False,True,8,7.1,Medium,6,Minor,0,Medium
+1000004879,5005273,M,2025-03-09,15:00,62,FORTE SÃO JOÃO,True,True,True,True,False,True,True,12,3.6,Medium,6,Senior,0,Short
+1000006897,5009798,F,2025-03-09,15:20,19,GRANDE VITÓRIA,True,True,False,True,False,True,True,2,6.5,Medium,6,Adult,0,Medium
+1000005374,5007072,F,2025-03-09,15:40,71,ROMÃO,True,True,False,True,False,True,True,4,8.4,High,6,Senior,0,Medium
+1000005471,5005139,F,2025-03-09,16:00,81,PRAIA DO SUÁ,False,True,True,True,False,False,True,6,16.7,Low,6,Senior,0,Long
+1000007089,5006179,F,2025-03-09,16:20,10,JARDIM CAMBURI,True,True,True,True,False,True,True,7,14.0,Medium,6,Minor,0,Medium
+1000008042,5008252,M,2025-03-09,16:40,76,SANTA TEREZA,True,False,True,False,False,True,True,11,4.8,Low,6,Senior,0,Short
+1000006172,5001201,F,2025-03-10,08:00,27,COMDUSA,False,False,True,True,False,True,True,10,7.7,High,0,Adult,0,Medium
+1000007906,5009313,F,2025-03-10,08:20,4,REDENÇÃO,True,False,True,True,False,True,True,6,10.6,Medium,0,Minor,0,Medium
+1000007811,5005127,F,2025-03-10,08:40,55,SANTO ANDRÉ,True,False,True,False,False,True,True,3,8.1,Low,0,Adult,0,Medium
+1000009599,5006838,F,2025-03-10,09:00,74,ESTRELINHA,True,False,True,False,False,True,False,9,3.1,Low,0,Senior,0,Short
+1000000050,5004049,F,2025-03-10,09:20,28,SEGURANÇA DO LAR,False,False,True,True,False,False,True,12,4.2,Medium,0,Adult,0,Short
+1000004093,5002905,F,2025-03-10,09:40,31,DA PENHA,False,False,False,False,True,True,False,6,17.6,Low,0,Adult,0,Long
+1000004510,5001233,M,2025-03-10,10:00,50,DO CABRAL,True,True,True,True,False,True,True,11,6.6,Low,0,Adult,0,Medium
+1000009796,5006631,F,2025-03-10,10:20,18,PIEDADE,True,True,False,True,False,False,True,7,2.5,High,0,Adult,0,Short
+1000006599,5006135,M,2025-03-10,10:40,19,DO MOSCOSO,True,True,True,False,False,True,False,6,13.5,High,0,Adult,0,Medium
+1000001843,5008229,F,2025-03-10,11:00,49,MONTE BELO,True,False,False,True,False,False,False,3,2.6,Medium,0,Adult,0,Short
+1000001510,5001967,M,2025-03-10,11:20,86,ILHA DE SANTA MARIA,True,False,True,False,False,False,True,5,15.9,Medium,0,Senior,0,Long
+1000000224,5000603,M,2025-03-10,11:40,86,PARQUE INDUSTRIAL,False,False,False,True,False,True,True,2,1.1,Medium,0,Senior,0,Short
+1000007822,5002619,F,2025-03-10,12:00,76,SANTO ANDRÉ,True,True,True,False,False,False,True,14,18.4,Medium,0,Senior,0,Long
+1000000882,5008858,M,2025-03-10,12:20,41,CONQUISTA,False,False,True,False,False,True,True,2,0.6,High,0,Adult,0,Short
+1000002985,5000801,M,2025-03-10,12:40,36,JABOUR,True,True,True,False,False,False,True,12,5.4,Medium,0,Adult,0,Medium
+1000002139,5006756,M,2025-03-10,13:00,44,SÃO CRISTÓVÃO,False,True,True,True,False,False,True,3,2.8,High,0,Adult,0,Short
+1000000529,5006461,M,2025-03-10,13:20,67,RESISTÊNCIA,True,True,True,False,True,True,True,5,7.4,Low,0,Senior,0,Medium
+1000008983,5002931,F,2025-03-10,13:40,25,ITARARÉ,False,False,True,False,False,True,True,6,15.3,Low,0,Adult,0,Long
+1000003287,5006833,F,2025-03-10,14:00,87,MORADA DE CAMBURI,False,False,True,False,False,True,True,5,13.2,Medium,0,Senior,0,Medium
+1000002804,5008222,M,2025-03-10,14:20,50,JUCUTUQUARA,True,False,True,True,False,True,True,12,3.2,High,0,Adult,0,Short
+1000009129,5006132,M,2025-03-10,14:40,26,GRANDE VITÓRIA,False,True,True,False,False,False,True,8,2.5,High,0,Adult,0,Short
+1000007041,5009601,M,2025-03-10,15:00,41,MARUÍPE,True,True,True,False,False,False,False,11,6.0,Medium,0,Adult,0,Medium
+1000002919,5001484,F,2025-03-10,15:20,87,ANDORINHAS,True,False,True,True,False,True,False,11,16.2,High,0,Senior,0,Long
+1000008045,5009916,M,2025-03-10,15:40,15,MARUÍPE,False,False,True,False,False,True,False,13,11.3,Low,0,Minor,0,Medium
+1000009563,5001196,M,2025-03-10,16:00,8,ENSEADA DO SUÁ,False,False,False,True,False,False,True,2,5.4,Medium,0,Minor,0,Medium
+1000007698,5000476,M,2025-03-10,16:20,61,MONTE BELO,False,True,False,True,False,True,True,2,18.4,Medium,0,Senior,0,Long
+1000007648,5006065,F,2025-03-10,16:40,17,DO CABRAL,False,True,True,False,False,True,True,4,6.7,Medium,0,Minor,0,Medium
+1000008605,5005821,M,2025-03-11,08:00,87,CRUZAMENTO,True,True,False,True,False,True,True,5,12.8,Low,1,Senior,0,Medium
+1000004382,5006240,F,2025-03-11,08:20,1,MORADA DE CAMBURI,True,False,False,False,False,True,True,5,16.5,Medium,1,Minor,0,Long
+1000007004,5002827,M,2025-03-11,08:40,37,NAZARETH,False,True,True,False,False,False,True,7,12.7,Medium,1,Adult,0,Medium
+1000005719,5005306,M,2025-03-11,09:00,10,DA PENHA,False,False,False,True,False,True,True,0,18.2,Medium,1,Minor,1,Long
+1000000060,5009676,M,2025-03-11,09:20,57,ROMÃO,False,True,True,False,False,False,False,3,15.9,Medium,1,Adult,0,Long
+1000000859,5009258,M,2025-03-11,09:40,76,ESTRELINHA,False,False,False,False,False,False,True,12,3.2,High,1,Senior,0,Short
+1000002749,5000372,M,2025-03-11,10:00,59,ENSEADA DO SUÁ,False,True,False,True,False,True,True,2,11.9,High,1,Adult,0,Medium
+1000008015,5008622,M,2025-03-11,10:20,0,FORTE SÃO JOÃO,True,True,False,True,False,False,False,3,16.0,Low,1,Minor,0,Long
+1000007161,5000792,F,2025-03-11,10:40,78,PRAIA DO SUÁ,True,False,True,False,False,False,True,4,6.6,Medium,1,Senior,0,Medium
+1000000779,5000874,M,2025-03-11,11:00,7,INHANGUETÁ,True,False,True,False,False,True,True,9,11.8,Low,1,Minor,0,Medium
+1000008549,5002013,M,2025-03-11,11:20,80,SANTA LÚCIA,False,True,False,True,False,False,True,13,17.2,Medium,1,Senior,0,Long
+1000007043,5000464,F,2025-03-11,11:40,69,REPÚBLICA,False,False,True,True,False,True,False,2,15.3,High,1,Senior,0,Long
+1000001151,5009955,M,2025-03-11,12:00,48,DO MOSCOSO,False,False,False,True,False,True,True,4,1.5,Medium,1,Adult,0,Short
+1000008409,5001701,F,2025-03-11,12:20,16,FRADINHOS,False,False,False,True,False,False,True,9,17.3,Low,1,Minor,0,Long
+1000004191,5001133,M,2025-03-11,12:40,7,PARQUE MOSCOSO,False,False,True,False,False,True,True,3,11.1,High,1,Minor,0,Medium
+1000007404,5008090,F,2025-03-11,13:00,61,JABOUR,True,False,False,True,False,False,False,14,7.2,Low,1,Senior,0,Medium
+1000003740,5008680,F,2025-03-11,13:20,51,MARUÍPE,False,True,False,True,True,False,True,4,13.3,Medium,1,Adult,0,Medium
+1000004518,5003508,M,2025-03-11,13:40,44,FONTE GRANDE,False,False,True,False,False,True,True,1,5.1,Medium,1,Adult,1,Medium
+1000007054,5001903,M,2025-03-11,14:00,49,TABUAZEIRO,True,True,False,True,False,True,True,6,1.3,Medium,1,Adult,0,Short
+1000005819,5009178,M,2025-03-11,14:20,67,ILHA DO BOI,False,True,True,True,False,False,True,4,19.6,High,1,Senior,0,Long
+1000006698,5002345,F,2025-03-11,14:40,17,REDENÇÃO,True,True,True,False,False,True,True,8,19.9,High,1,Minor,0,Long
+1000007313,5002623,M,2025-03-11,15:00,82,BOA VISTA,False,True,True,True,False,True,True,1,9.8,High,1,Senior,1,Medium
+1000005036,5002061,M,2025-03-11,15:20,80,SÃO JOSÉ,False,True,True,True,False,True,True,6,15.5,Medium,1,Senior,0,Long
+1000006415,5000908,F,2025-03-11,15:40,40,BENTO FERREIRA,False,False,False,False,False,True,True,5,19.8,High,1,Adult,0,Long
+1000003585,5008356,M,2025-03-11,16:00,69,DO QUADRO,True,False,True,False,False,False,True,1,4.5,Low,1,Senior,1,Short
+1000007283,5000977,M,2025-03-11,16:20,54,PONTAL DE CAMBURI,False,False,False,True,False,False,True,8,7.6,High,1,Adult,0,Medium
+1000009835,5001443,M,2025-03-11,16:40,14,BARRO VERMELHO,True,True,True,True,False,True,True,7,19.9,High,1,Minor,0,Long
+1000008740,5004634,M,2025-03-12,08:00,66,ILHA DAS CAIEIRAS,True,True,False,False,False,False,True,5,3.5,High,2,Senior,0,Short
+1000008739,5006512,F,2025-03-12,08:20,4,FORTE SÃO JOÃO,False,False,True,True,False,True,True,7,18.6,High,2,Minor,0,Long
+1000001635,5006242,F,2025-03-12,08:40,29,BENTO FERREIRA,True,True,False,True,False,False,False,7,11.3,Low,2,Adult,0,Medium
+1000005734,5009798,M,2025-03-12,09:00,25,GURIGICA,False,True,False,True,True,False,False,6,6.1,High,2,Adult,0,Medium
+1000000894,5003253,M,2025-03-12,09:20,21,SANTA LÚCIA,False,False,False,False,False,False,True,2,16.6,Low,2,Adult,0,Long
+1000008063,5005405,F,2025-03-12,09:40,53,ESTRELINHA,False,False,False,False,False,True,False,1,5.2,High,2,Adult,1,Medium
+1000005507,5006949,F,2025-03-12,10:00,63,CONSOLAÇÃO,False,False,False,True,False,True,False,8,8.5,High,2,Senior,0,Medium
+1000004382,5004319,F,2025-03-12,10:20,46,JARDIM CAMBURI,False,True,False,True,False,True,False,10,18.1,Low,2,Adult,0,Long
+1000000523,5008491,F,2025-03-12,10:40,10,PRAIA DO SUÁ,False,False,False,False,False,True,False,0,5.4,Low,2,Minor,1,Medium
+1000008310,5001277,M,2025-03-12,11:00,67,SÃO CRISTÓVÃO,True,False,True,False,True,False,True,0,3.9,High,2,Senior,1,Short
+1000007548,5006439,F,2025-03-12,11:20,33,BONFIM,True,True,False,True,False,True,False,9,7.3,High,2,Adult,0,Medium
+1000004127,5000242,M,2025-03-12,11:40,52,REPÚBLICA,True,True,True,False,False,False,True,3,14.1,Medium,2,Adult,0,Medium
+1000000648,5008679,M,2025-03-12,12:00,18,GOIABEIRAS,False,True,False,True,False,False,True,10,4.9,High,2,Adult,0,Short
+1000004873,5007453,F,2025-03-12,12:20,61,DO QUADRO,False,True,True,False,False,False,True,6,6.8,Low,2,Senior,0,Medium
+1000005400,5004669,F,2025-03-12,12:40,78,BARRO VERMELHO,True,True,True,True,False,True,True,11,5.8,Medium,2,Senior,0,Medium
+1000002711,5006671,F,2025-03-12,13:00,9,PARQUE MOSCOSO,False,False,True,False,False,False,True,12,15.6,High,2,Minor,0,Long
+1000009763,5006638,F,2025-03-12,13:20,88,JESUS DE NAZARETH,False,True,False,True,False,True,False,14,12.7,Medium,2,Senior,0,Medium
+1000004029,5004201,F,2025-03-12,13:40,35,SANTOS REIS,True,False,True,False,False,False,True,0,6.6,Low,2,Adult,1,Medium
+1000001045,5008626,F,2025-03-12,14:00,24,ILHA DE SANTA MARIA,True,False,False,False,False,False,False,0,4.1,High,2,Adult,1,Short
+1000004973,5008768,F,2025-03-12,14:20,6,MATA DA PRAIA,True,False,True,True,False,False,True,2,13.1,Medium,2,Minor,0,Medium
+1000008260,5004922,F,2025-03-12,14:40,32,SANTOS DUMONT,True,True,False,False,False,False,False,8,3.7,Low,2,Adult,0,Short
+1000009708,5007683,M,2025-03-12,15:00,55,TABUAZEIRO,False,True,True,True,False,True,True,5,11.4,Medium,2,Adult,0,Medium
+1000000013,5009347,F,2025-03-12,15:20,2,SÃO PEDRO,False,True,True,False,False,True,True,1,4.3,Medium,2,Minor,1,Short
+1000009110,5009672,M,2025-03-12,15:40,41,MARUÍPE,False,False,True,True,False,True,True,3,15.1,Low,2,Adult,0,Long
+1000008501,5002542,F,2025-03-12,16:00,18,SANTA TEREZA,True,True,False,True,False,True,True,7,10.6,Medium,2,Adult,0,Medium
+1000002399,5000005,F,2025-03-12,16:20,83,ITARARÉ,False,False,False,False,False,True,False,10,2.2,Medium,2,Senior,0,Short
+1000001136,5008136,F,2025-03-12,16:40,21,MARIA ORTIZ,True,True,True,True,False,True,True,3,12.1,High,2,Adult,0,Medium
+1000006863,5009906,M,2025-03-13,08:00,0,MATA DA PRAIA,False,True,True,False,False,False,True,0,6.5,High,3,Minor,1,Medium
+1000002290,5005882,M,2025-03-13,08:20,78,JUCUTUQUARA,True,True,False,True,False,True,True,0,16.5,High,3,Senior,1,Long
+1000007385,5001560,M,2025-03-13,08:40,85,SANTA MARTHA,False,True,False,False,False,True,True,13,7.9,High,3,Senior,0,Medium
+1000002148,5000696,M,2025-03-13,09:00,67,JARDIM CAMBURI,False,False,True,True,False,True,True,11,4.6,Low,3,Senior,0,Short
+1000008742,5007376,F,2025-03-13,09:20,2,INHANGUETÁ,True,True,True,False,False,False,True,6,15.0,Low,3,Minor,0,Long
+1000009340,5006471,M,2025-03-13,09:40,55,DO QUADRO,False,True,True,True,False,False,True,2,9.7,Low,3,Adult,0,Medium
+1000007013,5004195,F,2025-03-13,10:00,66,ENSEADA DO SUÁ,True,True,True,False,False,False,False,13,0.6,Low,3,Senior,0,Short
+1000003289,5000994,F,2025-03-13,10:20,60,JOANA D´ARC,False,False,True,False,False,True,True,9,10.2,Low,3,Senior,0,Medium
+1000003062,5000652,F,2025-03-13,10:40,19,BELA VISTA,False,True,True,False,False,True,True,11,7.2,High,3,Adult,0,Medium
+1000007376,5004380,F,2025-03-13,11:00,10,GOIABEIRAS,False,False,False,True,False,False,True,4,7.1,High,3,Minor,0,Medium
+1000002833,5002623,F,2025-03-13,11:20,4,BOA VISTA,True,True,False,True,False,True,False,4,16.5,Low,3,Minor,0,Long
+1000004208,5008863,F,2025-03-13,11:40,15,ITARARÉ,False,True,False,False,False,False,False,13,13.9,High,3,Minor,0,Medium
+1000001577,5000306,M,2025-03-13,12:00,81,PARQUE MOSCOSO,True,True,False,True,False,False,True,4,0.6,High,3,Senior,0,Short
+1000007884,5001914,M,2025-03-13,12:20,56,CONSOLAÇÃO,False,False,False,False,False,True,True,12,13.8,Low,3,Adult,0,Medium
+1000006080,5000840,F,2025-03-13,12:40,18,INHANGUETÁ,True,False,True,False,True,False,True,5,12.6,Low,3,Adult,0,Medium
+1000003024,5009382,M,2025-03-13,13:00,16,BELA VISTA,False,False,False,True,False,False,True,2,7.3,Low,3,Minor,0,Medium
+1000004190,5005723,M,2025-03-13,13:20,58,ILHA DAS CAIEIRAS,True,False,False,True,False,True,False,3,15.4,Medium,3,Adult,0,Long
+1000005744,5007703,F,2025-03-13,13:40,42,SEGURANÇA DO LAR,True,False,False,False,False,False,True,8,11.1,Low,3,Adult,0,Medium
+1000001911,5001606,F,2025-03-13,14:00,72,BONFIM,False,False,False,False,False,False,True,14,1.9,Low,3,Senior,0,Short
+1000006805,5006219,M,2025-03-13,14:20,13,HORTO,False,False,False,False,False,False,True,1,15.6,Medium,3,Minor,1,Long
+1000007164,5005557,M,2025-03-13,14:40,37,CONSOLAÇÃO,True,True,True,True,False,True,True,14,9.9,Medium,3,Adult,0,Medium
+1000007260,5004462,M,2025-03-13,15:00,4,JABOUR,True,False,True,False,False,True,True,9,19.4,Low,3,Minor,0,Long
+1000001603,5001489,F,2025-03-13,15:20,7,AEROPORTO,False,True,True,True,False,True,True,6,8.6,Medium,3,Minor,0,Medium
+1000003668,5002347,F,2025-03-13,15:40,21,SANTA LÚCIA,False,True,False,True,False,True,True,11,8.5,Low,3,Adult,0,Medium
+1000002265,5001462,F,2025-03-13,16:00,21,UNIVERSITÁRIO,False,True,True,True,False,True,False,4,16.9,High,3,Adult,0,Long
+1000001367,5004689,M,2025-03-13,16:20,5,DE LOURDES,False,False,False,False,False,True,True,5,3.1,Low,3,Minor,0,Short
+1000009182,5006132,F,2025-03-13,16:40,42,SÃO CRISTÓVÃO,False,False,False,True,False,True,False,2,12.3,High,3,Adult,0,Medium
+1000003379,5005808,F,2025-03-14,08:00,12,ESTRELINHA,True,True,False,False,False,True,True,0,15.6,Low,4,Minor,1,Long
+1000009919,5003765,M,2025-03-14,08:20,41,SANTA MARTHA,True,True,True,False,False,True,True,4,19.6,Low,4,Adult,0,Long
+1000003492,5001238,F,2025-03-14,08:40,32,BARRO VERMELHO,True,False,False,True,False,True,True,0,5.0,Medium,4,Adult,1,Medium
+1000009601,5008285,F,2025-03-14,09:00,23,JARDIM DA PENHA,True,True,True,False,False,False,True,12,10.3,Low,4,Adult,0,Medium
+1000008995,5007046,M,2025-03-14,09:20,12,DO MOSCOSO,False,True,True,False,False,True,True,7,12.4,High,4,Minor,0,Medium
+1000003905,5002045,F,2025-03-14,09:40,8,SANTO ANTÔNIO,True,False,False,False,False,False,True,9,10.4,Medium,4,Minor,0,Medium
+1000001131,5000664,F,2025-03-14,10:00,46,SEGURANÇA DO LAR,False,True,True,False,False,False,True,1,13.1,Low,4,Adult,1,Medium
+1000009772,5004502,M,2025-03-14,10:20,4,MONTE BELO,False,False,True,True,False,True,True,11,17.1,High,4,Minor,0,Long
+1000005862,5006798,M,2025-03-14,10:40,41,CONSOLAÇÃO,False,False,True,False,False,False,True,2,3.8,Low,4,Adult,0,Short
+1000002444,5009411,F,2025-03-14,11:00,68,JARDIM CAMBURI,False,True,True,True,False,True,True,1,6.3,Medium,4,Senior,1,Medium
+1000000632,5007052,F,2025-03-14,11:20,74,CRUZAMENTO,False,False,False,True,True,True,True,5,13.8,Low,4,Senior,0,Medium
+1000007068,5002268,M,2025-03-14,11:40,39,MORADA DE CAMBURI,False,False,True,True,False,False,True,1,7.7,Medium,4,Adult,1,Medium
+1000001163,5004849,M,2025-03-14,12:00,48,SÃO CRISTÓVÃO,True,False,False,True,False,True,True,8,9.3,Medium,4,Adult,0,Medium
+1000007209,5009073,F,2025-03-14,12:20,29,MATA DA PRAIA,False,False,False,False,False,True,True,9,19.8,Medium,4,Adult,0,Long
+1000002887,5001590,F,2025-03-14,12:40,26,ITARARÉ,False,True,True,False,False,False,True,11,14.2,High,4,Adult,0,Medium
+1000005455,5009112,M,2025-03-14,13:00,25,JARDIM CAMBURI,False,True,False,False,False,True,True,11,14.0,High,4,Adult,0,Medium
+1000000634,5000763,M,2025-03-14,13:20,50,SANTA HELENA,False,False,True,False,False,True,True,10,17.4,High,4,Adult,0,Long
+1000007460,5007684,M,2025-03-14,13:40,57,DE LOURDES,True,True,True,True,False,False,True,7,4.9,Low,4,Adult,0,Short
+1000000664,5007210,M,2025-03-14,14:00,46,ANTÔNIO HONÓRIO,False,True,True,True,False,False,True,7,2.8,High,4,Adult,0,Short
+1000007409,5002760,M,2025-03-14,14:20,81,SANTOS REIS,False,False,False,True,False,False,True,14,17.2,Medium,4,Senior,0,Long
+1000001997,5005008,F,2025-03-14,14:40,52,NAZARETH,True,False,False,True,False,True,False,1,2.5,High,4,Adult,1,Short
+1000009385,5005589,M,2025-03-14,15:00,0,JABOUR,True,False,True,True,False,True,False,10,18.8,High,4,Minor,0,Long
+1000006561,5000139,F,2025-03-14,15:20,5,AEROPORTO,False,True,False,False,False,False,True,9,15.3,Low,4,Minor,0,Long
+1000004836,5009611,M,2025-03-14,15:40,57,SÃO BENEDITO,True,False,True,False,False,False,True,9,4.3,Low,4,Adult,0,Short
+1000003678,5004671,M,2025-03-14,16:00,39,FRADINHOS,False,True,False,False,False,True,True,3,18.0,High,4,Adult,0,Long
+1000008713,5008140,M,2025-03-14,16:20,31,MATA DA PRAIA,True,True,True,True,False,True,True,2,8.2,High,4,Adult,0,Medium
+1000005836,5006978,M,2025-03-14,16:40,4,VILA RUBIM,True,True,False,False,False,False,True,6,3.8,High,4,Minor,0,Short
+1000006685,5007569,F,2025-03-15,08:00,83,SANTOS REIS,False,False,True,True,False,True,False,8,14.8,Medium,5,Senior,0,Medium
+1000008543,5007895,F,2025-03-15,08:20,9,CENTRO,True,False,True,False,False,True,True,1,9.3,Medium,5,Minor,1,Medium
+1000006085,5003243,M,2025-03-15,08:40,52,REPÚBLICA,False,True,False,True,False,False,True,6,3.7,Low,5,Adult,0,Short
+1000004396,5009396,F,2025-03-15,09:00,29,MORADA DE CAMBURI,True,False,True,True,False,True,True,10,4.8,Medium,5,Adult,0,Short
+1000009184,5006575,F,2025-03-15,09:20,53,CRUZAMENTO,False,False,False,True,False,True,True,9,4.6,Low,5,Adult,0,Short
+1000002682,5005489,F,2025-03-15,09:40,44,CARATOÍRA,True,False,False,False,False,False,True,6,17.7,High,5,Adult,0,Long
+1000002848,5000071,M,2025-03-15,10:00,13,DA PENHA,False,False,False,False,False,False,True,1,9.9,Low,5,Minor,1,Medium
+1000001693,5008611,F,2025-03-15,10:20,48,UNIVERSITÁRIO,True,False,True,True,False,True,True,0,18.5,Medium,5,Adult,1,Long
+1000002361,5009265,M,2025-03-15,10:40,51,SANTA TEREZA,False,False,True,True,False,True,True,14,4.3,Medium,5,Adult,0,Short
+1000008826,5001331,F,2025-03-15,11:00,2,JUCUTUQUARA,True,True,True,True,False,False,True,3,6.6,Low,5,Minor,0,Medium
+1000003105,5000612,F,2025-03-15,11:20,64,UNIVERSITÁRIO,False,True,False,False,False,False,True,3,4.9,High,5,Senior,0,Short
+1000002340,5006661,M,2025-03-15,11:40,71,SANTO ANTÔNIO,False,True,False,False,False,False,True,14,2.9,Medium,5,Senior,0,Short
+1000005595,5002264,M,2025-03-15,12:00,69,SÃO PEDRO,True,True,True,True,False,True,True,8,14.6,High,5,Senior,0,Medium
+1000005134,5009238,F,2025-03-15,12:20,49,DE LOURDES,True,False,False,True,False,True,True,1,0.6,Low,5,Adult,1,Short
+1000002368,5005359,F,2025-03-15,12:40,89,DO CABRAL,True,False,True,True,False,True,True,3,18.3,Medium,5,Senior,0,Long
+1000003333,5007548,F,2025-03-15,13:00,34,SANTOS REIS,True,True,True,True,False,False,True,10,16.6,High,5,Adult,0,Long
+1000006011,5009843,M,2025-03-15,13:20,67,VILA RUBIM,False,True,False,True,False,False,True,11,12.0,High,5,Senior,0,Medium
+1000002431,5008555,M,2025-03-15,13:40,28,MONTE BELO,False,True,True,False,False,True,True,4,13.5,Low,5,Adult,0,Medium
+1000005652,5009178,F,2025-03-15,14:00,44,JARDIM DA PENHA,False,False,True,True,False,True,True,9,10.7,High,5,Adult,0,Medium
+1000002348,5001946,F,2025-03-15,14:20,25,SÃO PEDRO,True,True,True,True,False,True,False,2,2.0,Medium,5,Adult,0,Short
+1000001726,5002867,M,2025-03-15,14:40,3,JESUS DE NAZARETH,False,True,False,False,False,False,True,3,16.3,Medium,5,Minor,0,Long
+1000006391,5006993,F,2025-03-15,15:00,71,MARUÍPE,False,True,False,True,True,False,True,13,5.8,Low,5,Senior,0,Medium
+1000008735,5006194,F,2025-03-15,15:20,66,SANTA HELENA,False,False,True,True,False,False,True,0,16.0,High,5,Senior,1,Long
+1000000345,5002788,M,2025-03-15,15:40,30,SANTO ANTÔNIO,False,True,False,True,False,False,True,1,4.7,Low,5,Adult,1,Short
+1000003790,5004453,M,2025-03-15,16:00,63,SÃO CRISTÓVÃO,False,True,False,True,False,False,True,8,17.2,High,5,Senior,0,Long
+1000003748,5009992,F,2025-03-15,16:20,8,REDENÇÃO,True,False,False,False,False,False,True,12,7.4,Medium,5,Minor,0,Medium
+1000009388,5000979,M,2025-03-15,16:40,21,JESUS DE NAZARETH,True,False,False,False,False,True,False,12,18.7,Low,5,Adult,0,Long
+1000006492,5003145,M,2025-03-16,08:00,64,JARDIM CAMBURI,False,False,True,False,False,True,True,13,12.9,Medium,6,Senior,0,Medium
+1000004605,5001139,M,2025-03-16,08:20,57,TABUAZEIRO,False,False,True,False,False,True,True,1,5.3,Low,6,Adult,1,Medium
+1000004266,5004537,M,2025-03-16,08:40,74,JOANA D´ARC,False,False,False,True,False,False,True,9,13.9,Low,6,Senior,0,Medium
+1000008665,5002113,F,2025-03-16,09:00,71,DO QUADRO,False,False,False,True,False,False,True,6,15.9,Medium,6,Senior,0,Long
+1000003358,5007639,F,2025-03-16,09:20,85,CRUZAMENTO,False,True,True,False,False,False,True,11,8.3,Medium,6,Senior,0,Medium
+1000004192,5006874,F,2025-03-16,09:40,74,SANTO ANDRÉ,False,True,True,True,False,True,True,4,15.2,Medium,6,Senior,0,Long
+1000009856,5005360,F,2025-03-16,10:00,2,SANTO ANDRÉ,True,True,False,False,False,False,True,7,3.6,High,6,Minor,0,Short
+1000008042,5007661,M,2025-03-16,10:20,4,FORTE SÃO JOÃO,True,False,False,False,False,False,True,3,6.6,High,6,Minor,0,Medium
+1000007270,5004289,F,2025-03-16,10:40,34,JUCUTUQUARA,True,True,False,False,False,False,False,1,17.2,High,6,Adult,1,Long
+1000007267,5001864,F,2025-03-16,11:00,55,HORTO,True,True,True,True,False,True,False,12,13.3,Medium,6,Adult,0,Medium
+1000005043,5009585,M,2025-03-16,11:20,57,ILHAS OCEÂNICAS DE TRINDADE,False,True,False,True,False,True,True,14,17.7,High,6,Adult,0,Long
+1000009038,5005276,F,2025-03-16,11:40,30,CONQUISTA,True,True,True,True,False,True,True,2,19.2,Medium,6,Adult,0,Long
+1000005013,5000536,M,2025-03-16,12:00,73,BARRO VERMELHO,False,True,True,True,False,False,True,12,13.3,Low,6,Senior,0,Medium
+1000007407,5004746,F,2025-03-16,12:20,9,GRANDE VITÓRIA,False,True,False,True,False,True,True,9,1.1,Medium,6,Minor,0,Short
+1000004891,5006465,M,2025-03-16,12:40,5,ILHA DO PRÍNCIPE,True,False,True,False,True,False,True,12,16.0,High,6,Minor,0,Long
+1000003938,5008658,M,2025-03-16,13:00,63,MARUÍPE,True,True,False,False,True,True,True,2,19.9,Low,6,Senior,0,Long
+1000000638,5001830,F,2025-03-16,13:20,81,BENTO FERREIRA,False,True,False,False,False,True,False,1,13.6,Low,6,Senior,1,Medium
+1000007958,5006509,F,2025-03-16,13:40,62,MÁRIO CYPRESTE,True,False,True,True,False,False,True,13,8.3,Low,6,Senior,0,Medium
+1000000596,5006317,M,2025-03-16,14:00,14,SEGURANÇA DO LAR,True,False,False,False,False,False,True,1,0.9,Medium,6,Minor,1,Short
+1000004381,5007571,F,2025-03-16,14:20,66,COMDUSA,True,False,True,True,False,False,True,9,15.1,High,6,Senior,0,Long
+1000009683,5004973,M,2025-03-16,14:40,11,DE LOURDES,True,True,False,False,False,True,False,0,3.8,Low,6,Minor,1,Short
+1000008084,5007903,M,2025-03-16,15:00,50,CENTRO,True,True,False,True,False,False,True,7,13.5,High,6,Adult,0,Medium
+1000000494,5009791,F,2025-03-16,15:20,10,SÃO JOSÉ,False,True,False,True,False,False,True,8,1.6,Medium,6,Minor,0,Short
+1000008748,5003931,M,2025-03-16,15:40,80,ANDORINHAS,False,True,False,True,False,False,True,11,15.2,Medium,6,Senior,0,Long
+1000009508,5004176,F,2025-03-16,16:00,85,BOA VISTA,True,True,False,True,False,True,False,2,5.6,Medium,6,Senior,0,Medium
+1000004824,5001999,M,2025-03-16,16:20,4,SANTA LUÍZA,False,False,True,True,False,True,True,6,0.7,Medium,6,Minor,0,Short
+1000008425,5008686,F,2025-03-16,16:40,2,COMDUSA,True,True,False,False,False,True,True,14,10.5,Medium,6,Minor,0,Medium
